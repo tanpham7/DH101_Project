@@ -1,0 +1,523 @@
+Rank,Player,Weekly Salary,Pos.,Age,Status,Length (Yrs),2018-19 Salary,2019-20 Salary,2020-21 Salary,2021-22 Salary,2022-23 Salary,2023-24 Salary,2024-25 Salary,Club
+1,Cristiano Ronaldo (http://www.capology.com/soccer/player/cristiano-ronaldo/salary-profile/),"$1,248,536",LW,34,Starter,4,"$64,923,873","$64,923,873","$64,923,873","$64,923,873",$0,$0,$0,Juventus
+2,Paulo Dybala (http://www.capology.com/soccer/player/paulo-dybala/salary-profile/),"$281,930",SS,25,Starter,4,"$14,660,375","$14,660,375","$14,660,375","$14,660,375",$0,$0,$0,Juventus
+3,Miralem Pjanic (http://www.capology.com/soccer/player/miralem%C2%A0pjanic/salary-profile/),"$261,791",CM,29,Starter,5,"$13,613,125","$13,613,125","$13,613,125","$13,613,125","$13,613,125",$0,$0,Juventus
+4,Douglas Costa (http://www.capology.com/soccer/player/douglas-costa/salary-profile/),"$241,651",RW,28,Reserve,4,"$12,565,874","$12,565,874","$12,565,874","$12,565,874",$0,$0,$0,Juventus
+5,Gianluigi Donnarumma (http://www.capology.com/soccer/player/gianluigi-donnarumma/salary-profile/),"$241,651",GK,20,Starter,3,"$12,565,874","$12,565,874","$12,565,874",$0,$0,$0,$0,AC Milan
+6,Leonardo Bonucci (http://www.capology.com/soccer/player/leonardo-bonucci/salary-profile/),"$221,512",CB,31,Starter,5,"$11,518,624","$11,518,624","$11,518,624","$11,518,624","$11,518,624",$0,$0,Juventus
+7,Mario Mandzukic (http://www.capology.com/soccer/player/mario%C2%A0mandzukic/salary-profile/),"$221,512",CF,32,Starter,3,"$11,518,624","$11,518,624","$11,518,624",$0,$0,$0,$0,Juventus
+8,Emre Can (http://www.capology.com/soccer/player/emre-can/salary-profile/),"$201,373",DM,25,Reserve,4,"$10,471,373","$10,471,373","$10,471,373","$10,471,373",$0,$0,$0,Juventus
+9,Lorenzo Insigne (http://www.capology.com/soccer/player/lorenzo-insigne/salary-profile/),"$185,278",LW,27,Starter,4,"$9,634,478","$9,634,478","$9,634,478","$9,634,478",$0,$0,$0,Napoli
+10,Edin Dzeko (http://www.capology.com/soccer/player/edin-dzeko/salary-profile/),"$181,233",CF,33,Starter,2,"$9,424,123","$9,424,123",$0,$0,$0,$0,$0,Roma
+11,Mauro Icardi (http://www.capology.com/soccer/player/mauro-icardi/salary-profile/),"$181,233",CF,26,Starter,3,"$9,424,123","$9,424,123","$9,424,123",$0,$0,$0,$0,Inter Milan
+12,Radja Nainggolan (http://www.capology.com/soccer/player/radja-nainggolan/salary-profile/),"$181,233",CM,30,Reserve,4,"$9,424,123","$9,424,123","$9,424,123","$9,424,123",$0,$0,$0,Inter Milan
+13,Blaise Matuidi (http://www.capology.com/soccer/player/blaise-matuidi/salary-profile/),"$161,094",CM,32,Starter,2,"$8,376,873","$8,376,873",$0,$0,$0,$0,$0,Juventus
+14,Dries Mertens (http://www.capology.com/soccer/player/dries-mertens/salary-profile/),"$161,094",CF,31,Reserve,2,"$8,376,873","$8,376,873",$0,$0,$0,$0,$0,Napoli
+15,Giorgio Chiellini (http://www.capology.com/soccer/player/giorgio-chiellini/salary-profile/),"$161,094",CB,34,Starter,2,"$8,376,873","$8,376,873",$0,$0,$0,$0,$0,Juventus
+16,Ivan Perisic (http://www.capology.com/soccer/player/ivan-perisic/salary-profile/),"$161,094",LW,30,Reserve,4,"$8,376,873","$8,376,873","$8,376,873","$8,376,873",$0,$0,$0,Inter Milan
+17,Juan Cuadrado (http://www.capology.com/soccer/player/juan-cuadrado/salary-profile/),"$161,094",RW,30,Reserve,2,"$8,376,873","$8,376,873",$0,$0,$0,$0,$0,Juventus
+18,Sami Khedira (http://www.capology.com/soccer/player/sami-khedira/salary-profile/),"$161,094",CM,32,Starter,3,"$8,376,873","$8,376,873","$8,376,873",$0,$0,$0,$0,Juventus
+19,Wojciech Szczesny (http://www.capology.com/soccer/player/wojciech-szczesny/salary-profile/),"$161,094",GK,28,Starter,3,"$8,376,873","$8,376,873","$8,376,873",$0,$0,$0,$0,Juventus
+20,Stefan De Vrij (http://www.capology.com/soccer/player/stefan-de-vrij/salary-profile/),"$153,047",CB,27,Starter,5,"$7,958,425","$7,958,425","$7,958,425","$7,958,425","$7,958,425",$0,$0,Inter Milan
+21,Alessio Romagnoli (http://www.capology.com/soccer/player/alessio-romagnoli/salary-profile/),"$140,954",CB,24,Starter,4,"$7,329,622","$7,329,622","$7,329,622","$7,329,622",$0,$0,$0,AC Milan
+22,Javier Pastore (http://www.capology.com/soccer/player/javier-pastore/salary-profile/),"$140,954",AM,29,Reserve,5,"$7,329,622","$7,329,622","$7,329,622","$7,329,622","$7,329,622",$0,$0,Roma
+23,João Miranda (http://www.capology.com/soccer/player/joao-miranda/salary-profile/),"$140,954",CB,34,Reserve,2,"$7,329,622","$7,329,622",$0,$0,$0,$0,$0,Inter Milan
+24,Kalidou Koulibaly (http://www.capology.com/soccer/player/kalidou-koulibaly/salary-profile/),"$140,954",CB,27,Starter,5,"$7,329,622","$7,329,622","$7,329,622","$7,329,622","$7,329,622",$0,$0,Napoli
+25,Lucas Biglia (http://www.capology.com/soccer/player/lucas-biglia/salary-profile/),"$140,954",DM,33,Reserve,2,"$7,329,622","$7,329,622",$0,$0,$0,$0,$0,AC Milan
+26,Tiemoué Bakayoko (http://www.capology.com/soccer/player/tiemoue-bakayoko/salary-profile/),"$140,954",DM,24,Starter,1,"$7,329,622",$0,$0,$0,$0,$0,$0,AC Milan
+27,Samir Handanovic (http://www.capology.com/soccer/player/samir-handanovic/salary-profile/),"$128,884",GK,34,Starter,3,"$6,701,950","$6,701,950","$6,701,950",$0,$0,$0,$0,Inter Milan
+28,Steven Nzonzi (http://www.capology.com/soccer/player/steven-nzonzi/salary-profile/),"$124,860",DM,30,Reserve,4,"$6,492,727","$6,492,727","$6,492,727","$6,492,727",$0,$0,$0,Roma
+29,Andrea Barzagli (http://www.capology.com/soccer/player/andrea-barzagli/salary-profile/),"$120,837",CB,37,Reserve,1,"$6,283,503",$0,$0,$0,$0,$0,$0,Juventus
+30,Antonio Candreva (http://www.capology.com/soccer/player/antonio-candreva/salary-profile/),"$120,837",RW,32,Reserve,3,"$6,283,503","$6,283,503","$6,283,503",$0,$0,$0,$0,Inter Milan
+31,Daniele De Rossi (http://www.capology.com/soccer/player/daniele-de-rossi/salary-profile/),"$120,837",DM,35,Starter,1,"$6,283,503",$0,$0,$0,$0,$0,$0,Roma
+32,Daniele Rugani (http://www.capology.com/soccer/player/daniele-rugani/salary-profile/),"$120,837",CB,24,Reserve,5,"$6,283,503","$6,283,503","$6,283,503","$6,283,503","$6,283,503",$0,$0,Juventus
+33,Federico Bernardeschi (http://www.capology.com/soccer/player/federico-bernardeschi/salary-profile/),"$120,837",RW,25,Reserve,4,"$6,283,503","$6,283,503","$6,283,503","$6,283,503",$0,$0,$0,Juventus
+34,José Callejón (http://www.capology.com/soccer/player/jose-callejon/salary-profile/),"$120,837",RW,32,Starter,2,"$6,283,503","$6,283,503",$0,$0,$0,$0,$0,Napoli
+35,João Cancelo (http://www.capology.com/soccer/player/joao-cancelo/salary-profile/),"$120,837",RB,24,Starter,5,"$6,283,503","$6,283,503","$6,283,503","$6,283,503","$6,283,503",$0,$0,Juventus
+36,Keita Baldé (http://www.capology.com/soccer/player/keita-balde/salary-profile/),"$120,837",LW,24,Starter,1,"$6,283,503",$0,$0,$0,$0,$0,$0,Inter Milan
+37,Kwadwo Asamoah (http://www.capology.com/soccer/player/kwadwo-asamoah/salary-profile/),"$120,837",LB,30,Reserve,3,"$6,283,503","$6,283,503","$6,283,503",$0,$0,$0,$0,Inter Milan
+38,Pepe Reina (http://www.capology.com/soccer/player/pepe-reina/salary-profile/),"$120,837",GK,36,Reserve,3,"$6,283,503","$6,283,503","$6,283,503",$0,$0,$0,$0,AC Milan
+39,Suso (http://www.capology.com/soccer/player/suso/salary-profile/),"$120,837",RW,25,Starter,4,"$6,283,503","$6,283,503","$6,283,503","$6,283,503",$0,$0,$0,AC Milan
+40,Alessandro Florenzi (http://www.capology.com/soccer/player/alessandro-florenzi/salary-profile/),"$112,768",RB,28,Starter,5,"$5,863,924","$5,863,924","$5,863,924","$5,863,924","$5,863,924",$0,$0,Roma
+41,Alex Sandro (http://www.capology.com/soccer/player/alex-sandro/salary-profile/),"$112,768",LB,28,Starter,5,"$5,863,924","$5,863,924","$5,863,924","$5,863,924","$5,863,924",$0,$0,Juventus
+42,Diego Perotti (http://www.capology.com/soccer/player/diego-perotti/salary-profile/),"$112,768",LW,30,Reserve,3,"$5,863,924","$5,863,924","$5,863,924",$0,$0,$0,$0,Roma
+43,Sime Vrsaljko (http://www.capology.com/soccer/player/sime-vrsaljko/salary-profile/),"$112,768",RB,27,Reserve,1,"$5,863,924",$0,$0,$0,$0,$0,$0,Inter Milan
+44,João Mário (http://www.capology.com/soccer/player/joao-mario/salary-profile/),"$108,744",AM,26,Starter,3,"$5,654,700","$5,654,700","$5,654,700",$0,$0,$0,$0,Inter Milan
+45,Konstantinos Manolas (http://www.capology.com/soccer/player/konstantinos-manolas/salary-profile/),"$108,744",CB,27,Starter,4,"$5,654,700","$5,654,700","$5,654,700","$5,654,700",$0,$0,$0,Roma
+46,Arkadiusz Milik (http://www.capology.com/soccer/player/arkadiusz-milik/salary-profile/),"$100,697",CF,25,Starter,3,"$5,236,252","$5,236,252","$5,236,252",$0,$0,$0,$0,Napoli
+47,Borja Valero (http://www.capology.com/soccer/player/borja-valero/salary-profile/),"$100,697",CM,34,Reserve,2,"$5,236,252","$5,236,252",$0,$0,$0,$0,$0,Inter Milan
+48,Fabio Borini (http://www.capology.com/soccer/player/fabio-borini/salary-profile/),"$100,697",LW,28,Reserve,3,"$5,236,252","$5,236,252","$5,236,252",$0,$0,$0,$0,AC Milan
+49,Federico Fazio (http://www.capology.com/soccer/player/federico-fazio/salary-profile/),"$100,697",CB,32,Starter,2,"$5,236,252","$5,236,252",$0,$0,$0,$0,$0,Roma
+50,Hakan Calhanoglu (http://www.capology.com/soccer/player/hakan-calhanoglu/salary-profile/),"$100,697",LW,25,Starter,3,"$5,236,252","$5,236,252","$5,236,252",$0,$0,$0,$0,AC Milan
+51,Marcelo Brozovic (http://www.capology.com/soccer/player/marcelo-brozovic/salary-profile/),"$100,697",CM,26,Starter,4,"$5,236,252","$5,236,252","$5,236,252","$5,236,252",$0,$0,$0,Inter Milan
+52,Matías Vecino (http://www.capology.com/soccer/player/matias-vecino/salary-profile/),"$100,697",CM,27,Starter,4,"$5,236,252","$5,236,252","$5,236,252","$5,236,252",$0,$0,$0,Inter Milan
+53,Patrik Schick (http://www.capology.com/soccer/player/patrik-schick/salary-profile/),"$100,697",CF,23,Reserve,4,"$5,236,252","$5,236,252","$5,236,252","$5,236,252",$0,$0,$0,Roma
+54,Riccardo Montolivo (http://www.capology.com/soccer/player/riccardo-montolivo/salary-profile/),"$100,697",DM,34,Reserve,1,"$5,236,252",$0,$0,$0,$0,$0,$0,AC Milan
+55,Andrea Ranocchia (http://www.capology.com/soccer/player/andrea-ranocchia/salary-profile/),"$96,652",CB,31,Reserve,1,"$5,025,897",$0,$0,$0,$0,$0,$0,Inter Milan
+56,Faouzi Ghoulam (http://www.capology.com/soccer/player/faouzi-ghoulam/salary-profile/),"$96,652",LB,28,Starter,4,"$5,025,897","$5,025,897","$5,025,897","$5,025,897",$0,$0,$0,Napoli
+57,Luis Muriel (http://www.capology.com/soccer/player/luis-muriel/salary-profile/),"$93,303",CF,27,Starter,1,"$4,851,733",$0,$0,$0,$0,$0,$0,Fiorentina
+58,Ciro Immobile (http://www.capology.com/soccer/player/ciro-immobile/salary-profile/),"$92,628",CF,29,Starter,5,"$4,816,673","$4,816,673","$4,816,673","$4,816,673","$4,816,673",$0,$0,Lazio
+59,Ignazio Abate (http://www.capology.com/soccer/player/ignazio-abate/salary-profile/),"$92,628",RB,32,Reserve,1,"$4,816,673",$0,$0,$0,$0,$0,$0,AC Milan
+60,Lucas Leiva (http://www.capology.com/soccer/player/lucas-leiva/salary-profile/),"$92,628",DM,32,Starter,2,"$4,816,673","$4,816,673",$0,$0,$0,$0,$0,Lazio
+61,Mattia Perin (http://www.capology.com/soccer/player/mattia-perin/salary-profile/),"$92,628",GK,26,Reserve,4,"$4,816,673","$4,816,673","$4,816,673","$4,816,673",$0,$0,$0,Juventus
+62,Franck Kessié (http://www.capology.com/soccer/player/franck-kessie/salary-profile/),"$88,605",CM,22,Starter,4,"$4,607,450","$4,607,450","$4,607,450","$4,607,450",$0,$0,$0,AC Milan
+63,Juan Jesus (http://www.capology.com/soccer/player/juan-jesus/salary-profile/),"$88,605",CB,27,Reserve,2,"$4,607,450","$4,607,450",$0,$0,$0,$0,$0,Roma
+64,Mattia Caldara (http://www.capology.com/soccer/player/mattia-caldara/salary-profile/),"$88,605",CB,24,Reserve,5,"$4,607,450","$4,607,450","$4,607,450","$4,607,450","$4,607,450",$0,$0,AC Milan
+65,Raúl Albiol (http://www.capology.com/soccer/player/raul-albiol/salary-profile/),"$84,581",CB,33,Starter,3,"$4,398,226","$4,398,226","$4,398,226",$0,$0,$0,$0,Napoli
+66,Ricardo Rodríguez (http://www.capology.com/soccer/player/ricardo-rodriguez/salary-profile/),"$84,581",LB,26,Starter,3,"$4,398,226","$4,398,226","$4,398,226",$0,$0,$0,$0,AC Milan
+67,Cédric Soares (http://www.capology.com/soccer/player/cedric-soares/salary-profile/),"$81,884",RB,27,Starter,1,"$4,257,989",$0,$0,$0,$0,$0,$0,Inter Milan
+68,Aleksandar Kolarov (http://www.capology.com/soccer/player/aleksandar-kolarov/salary-profile/),"$80,558",LB,33,Starter,2,"$4,189,002","$4,189,002",$0,$0,$0,$0,$0,Roma
+69,Allan (http://www.capology.com/soccer/player/allan/salary-profile/),"$80,558",CM,28,Starter,5,"$4,189,002","$4,189,002","$4,189,002","$4,189,002","$4,189,002",$0,$0,Napoli
+70,Andrea Bertolacci (http://www.capology.com/soccer/player/andrea-bertolacci/salary-profile/),"$80,558",CM,28,Reserve,1,"$4,189,002",$0,$0,$0,$0,$0,$0,AC Milan
+71,Andrea Conti (http://www.capology.com/soccer/player/andrea-conti/salary-profile/),"$80,558",RB,25,Reserve,4,"$4,189,002","$4,189,002","$4,189,002","$4,189,002",$0,$0,$0,AC Milan
+72,Giacomo Bonaventura (http://www.capology.com/soccer/player/giacomo-bonaventura/salary-profile/),"$80,558",CM,29,Reserve,2,"$4,189,002","$4,189,002",$0,$0,$0,$0,$0,AC Milan
+73,Ivan Strinic (http://www.capology.com/soccer/player/ivan-strinic/salary-profile/),"$80,558",LB,31,Reserve,3,"$4,189,002","$4,189,002","$4,189,002",$0,$0,$0,$0,AC Milan
+74,Mateo Musacchio (http://www.capology.com/soccer/player/mateo-musacchio/salary-profile/),"$80,558",CB,28,Starter,3,"$4,189,002","$4,189,002","$4,189,002",$0,$0,$0,$0,AC Milan
+75,Mattia De Sciglio (http://www.capology.com/soccer/player/mattia-de-sciglio/salary-profile/),"$80,558",RB,26,Reserve,4,"$4,189,002","$4,189,002","$4,189,002","$4,189,002",$0,$0,$0,Juventus
+76,Mattia Destro (http://www.capology.com/soccer/player/mattia-destro/salary-profile/),"$80,558",CF,28,Reserve,2,"$4,189,002","$4,189,002",$0,$0,$0,$0,$0,Bologna
+77,Stephan El Shaarawy (http://www.capology.com/soccer/player/stephan-el-shaarawy/salary-profile/),"$80,558",LW,26,Starter,2,"$4,189,002","$4,189,002",$0,$0,$0,$0,$0,Roma
+78,Krzysztof Piatek (http://www.capology.com/soccer/player/krzysztof-piatek/salary-profile/),"$72,511",CF,23,Starter,5,"$3,770,554","$3,770,554","$3,770,554","$3,770,554","$3,770,554",$0,$0,AC Milan
+79,Andrea Belotti (http://www.capology.com/soccer/player/andrea-belotti/salary-profile/),"$72,489",CF,25,Starter,3,"$3,769,423","$3,769,423","$3,769,423",$0,$0,$0,$0,Torino
+80,Justin Kluivert (http://www.capology.com/soccer/player/justin-kluivert/salary-profile/),"$72,489",LW,19,Reserve,5,"$3,769,423","$3,769,423","$3,769,423","$3,769,423","$3,769,423",$0,$0,Roma
+81,Lorenzo Pellegrini (http://www.capology.com/soccer/player/lorenzo-pellegrini/salary-profile/),"$72,489",CM,22,Starter,4,"$3,769,423","$3,769,423","$3,769,423","$3,769,423",$0,$0,$0,Roma
+82,Mário Rui (http://www.capology.com/soccer/player/mario-rui/salary-profile/),"$72,489",LB,27,Reserve,4,"$3,769,423","$3,769,423","$3,769,423","$3,769,423",$0,$0,$0,Napoli
+83,Sergej Milinkovic-Savic (http://www.capology.com/soccer/player/sergej-milinkovic-savic/salary-profile/),"$72,489",CM,24,Starter,5,"$3,769,423","$3,769,423","$3,769,423","$3,769,423","$3,769,423",$0,$0,Lazio
+84,Simone Verdi (http://www.capology.com/soccer/player/simone-verdi/salary-profile/),"$72,489",RW,26,Reserve,5,"$3,769,423","$3,769,423","$3,769,423","$3,769,423","$3,769,423",$0,$0,Napoli
+85,Cristián Zapata (http://www.capology.com/soccer/player/cristian-zapata/salary-profile/),"$68,465",CB,32,Reserve,1,"$3,560,199",$0,$0,$0,$0,$0,$0,AC Milan
+86,Danilo D'Ambrosio (http://www.capology.com/soccer/player/danilo-d-ambrosio/salary-profile/),"$68,465",RB,30,Starter,3,"$3,560,199","$3,560,199","$3,560,199",$0,$0,$0,$0,Inter Milan
+87,Diego Laxalt (http://www.capology.com/soccer/player/diego-laxalt/salary-profile/),"$68,465",LM,26,Reserve,4,"$3,560,199","$3,560,199","$3,560,199","$3,560,199",$0,$0,$0,AC Milan
+88,Federico Chiesa (http://www.capology.com/soccer/player/federico-chiesa/salary-profile/),"$68,465",RW,21,Starter,4,"$3,560,199","$3,560,199","$3,560,199","$3,560,199",$0,$0,$0,Fiorentina
+89,Felipe Caicedo (http://www.capology.com/soccer/player/felipe-caicedo/salary-profile/),"$68,465",CF,30,Reserve,2,"$3,560,199","$3,560,199",$0,$0,$0,$0,$0,Lazio
+90,Lucas Paquetá (http://www.capology.com/soccer/player/lucas-paqueta/salary-profile/),"$68,465",AM,21,Starter,5,"$3,560,199","$3,560,199","$3,560,199","$3,560,199","$3,560,199",$0,$0,AC Milan
+91,Milan Skriniar (http://www.capology.com/soccer/player/milan-skriniar/salary-profile/),"$68,465",CB,24,Starter,4,"$3,560,199","$3,560,199","$3,560,199","$3,560,199",$0,$0,$0,Inter Milan
+92,Salvatore Sirigu (http://www.capology.com/soccer/player/salvatore-sirigu/salary-profile/),"$68,465",GK,32,Starter,4,"$3,560,199","$3,560,199","$3,560,199","$3,560,199",$0,$0,$0,Torino
+93,Vlad Chiriches (http://www.capology.com/soccer/player/vlad-chiriches/salary-profile/),"$68,465",CB,29,Reserve,4,"$3,560,199","$3,560,199","$3,560,199","$3,560,199",$0,$0,$0,Napoli
+94,Elseid Hysaj (http://www.capology.com/soccer/player/elseid-hysaj/salary-profile/),"$64,442",RB,25,Starter,3,"$3,350,975","$3,350,975","$3,350,975",$0,$0,$0,$0,Napoli
+95,Matteo Politano (http://www.capology.com/soccer/player/matteo-politano/salary-profile/),"$64,442",RW,25,Starter,1,"$3,350,975",$0,$0,$0,$0,$0,$0,Inter Milan
+96,Papu Gómez (http://www.capology.com/soccer/player/papu-gomez/salary-profile/),"$64,442",SS,31,Starter,4,"$3,350,975","$3,350,975","$3,350,975","$3,350,975",$0,$0,$0,Atalanta
+97,Simone Zaza (http://www.capology.com/soccer/player/simone-zaza/salary-profile/),"$64,442",CF,27,Starter,5,"$3,350,975","$3,350,975","$3,350,975","$3,350,975","$3,350,975",$0,$0,Torino
+98,Manolo Gabbiadini (http://www.capology.com/soccer/player/manolo-gabbiadini/salary-profile/),"$62,985",CF,27,Starter,4,"$3,275,202","$3,275,202","$3,275,202","$3,275,202",$0,$0,$0,Sampdoria
+99,Amin Younes (http://www.capology.com/soccer/player/amin-younes/salary-profile/),"$60,418",LW,25,Reserve,5,"$3,141,751","$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,Napoli
+100,Duván Zapata (http://www.capology.com/soccer/player/duvan-zapata/salary-profile/),"$60,418",CF,28,Starter,2,"$3,141,751","$3,141,751",$0,$0,$0,$0,$0,Atalanta
+101,Fabián Ruiz (http://www.capology.com/soccer/player/fabian-ruiz/salary-profile/),"$60,418",CM,23,Reserve,5,"$3,141,751","$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,Napoli
+102,Francesco Acerbi (http://www.capology.com/soccer/player/francesco-acerbi/salary-profile/),"$60,418",CB,31,Starter,5,"$3,141,751","$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,Lazio
+103,Gianluca Lapadula (http://www.capology.com/soccer/player/gianluca-lapadula/salary-profile/),"$60,418",CF,29,Reserve,4,"$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,Genoa
+104,Iago Falque (http://www.capology.com/soccer/player/iago-falque/salary-profile/),"$60,418",RW,29,Reserve,4,"$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,Torino
+105,Iván Marcano (http://www.capology.com/soccer/player/ivan-marcano/salary-profile/),"$60,418",CB,31,Reserve,3,"$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,$0,Roma
+106,Lautaro Martínez (http://www.capology.com/soccer/player/lautaro-martinez/salary-profile/),"$60,418",CF,21,Reserve,5,"$3,141,751","$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,Inter Milan
+107,Leonardo Spinazzola (http://www.capology.com/soccer/player/leonardo-spinazzola/salary-profile/),"$60,418",LB,26,Reserve,4,"$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,Juventus
+108,Luis Alberto (http://www.capology.com/soccer/player/luis-alberto/salary-profile/),"$60,418",AM,26,Starter,4,"$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,Lazio
+109,Marko Pjaca (http://www.capology.com/soccer/player/marko-pjaca/salary-profile/),"$60,418",LW,23,Reserve,1,"$3,141,751",$0,$0,$0,$0,$0,$0,Fiorentina
+110,Milan Badelj (http://www.capology.com/soccer/player/milan-badelj/salary-profile/),"$60,418",DM,30,Starter,4,"$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,Lazio
+111,Nicolas N'Koulou (http://www.capology.com/soccer/player/nicolas-n-koulou/salary-profile/),"$60,418",CB,29,Starter,2,"$3,141,751","$3,141,751",$0,$0,$0,$0,$0,Torino
+112,Rick Karsdorp (http://www.capology.com/soccer/player/rick-karsdorp/salary-profile/),"$60,418",RB,24,Starter,4,"$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,Roma
+113,Roberto Gagliardini (http://www.capology.com/soccer/player/roberto-gagliardini/salary-profile/),"$60,418",CM,25,Reserve,3,"$3,141,751","$3,141,751","$3,141,751",$0,$0,$0,$0,Inter Milan
+114,Samu Castillejo (http://www.capology.com/soccer/player/samu-castillejo/salary-profile/),"$60,418",RW,24,Reserve,5,"$3,141,751","$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,AC Milan
+115,Valon Berisha (http://www.capology.com/soccer/player/valon-berisha/salary-profile/),"$60,418",CM,26,Reserve,5,"$3,141,751","$3,141,751","$3,141,751","$3,141,751","$3,141,751",$0,$0,Lazio
+116,Bryan Cristante (http://www.capology.com/soccer/player/bryan-cristante/salary-profile/),"$56,395",CM,24,Reserve,1,"$2,932,527",$0,$0,$0,$0,$0,$0,Roma
+117,Cristian Ansaldi (http://www.capology.com/soccer/player/cristian-ansaldi/salary-profile/),"$56,395",LB,32,Starter,3,"$2,932,527","$2,932,527","$2,932,527",$0,$0,$0,$0,Torino
+118,Daniele Baselli (http://www.capology.com/soccer/player/daniele-baselli/salary-profile/),"$56,395",CM,27,Reserve,4,"$2,932,527","$2,932,527","$2,932,527","$2,932,527",$0,$0,$0,Torino
+119,David Ospina (http://www.capology.com/soccer/player/david-ospina/salary-profile/),"$56,395",GK,30,Reserve,1,"$2,932,527",$0,$0,$0,$0,$0,$0,Napoli
+120,Dennis Praet (http://www.capology.com/soccer/player/dennis-praet/salary-profile/),"$56,395",CM,24,Reserve,3,"$2,932,527","$2,932,527","$2,932,527",$0,$0,$0,$0,Sampdoria
+121,José Mauri (http://www.capology.com/soccer/player/jose-mauri/salary-profile/),"$56,395",CM,22,Reserve,1,"$2,932,527",$0,$0,$0,$0,$0,$0,AC Milan
+122,Marco Parolo (http://www.capology.com/soccer/player/marco-parolo/salary-profile/),"$56,395",CM,34,Starter,2,"$2,932,527","$2,932,527",$0,$0,$0,$0,$0,Lazio
+123,Senad Lulic (http://www.capology.com/soccer/player/senad-lulic/salary-profile/),"$56,395",LM,33,Reserve,2,"$2,932,527","$2,932,527",$0,$0,$0,$0,$0,Lazio
+124,Stefan Radu (http://www.capology.com/soccer/player/stefan-radu/salary-profile/),"$56,395",LB,32,Starter,2,"$2,932,527","$2,932,527",$0,$0,$0,$0,$0,Lazio
+125,Tomás Rincón (http://www.capology.com/soccer/player/tomas-rincon/salary-profile/),"$56,395",DM,31,Starter,4,"$2,932,527","$2,932,527","$2,932,527","$2,932,527",$0,$0,$0,Torino
+126,Roberto Soriano (http://www.capology.com/soccer/player/roberto-soriano/salary-profile/),"$56,221",CM,28,Starter,1,"$2,923,480",$0,$0,$0,$0,$0,$0,Bologna
+127,Ante Coric (http://www.capology.com/soccer/player/ante-coric/salary-profile/),"$52,349",AM,21,Reserve,5,"$2,722,173","$2,722,173","$2,722,173","$2,722,173","$2,722,173",$0,$0,Roma
+128,Armando Izzo (http://www.capology.com/soccer/player/armando-izzo/salary-profile/),"$52,349",CB,27,Starter,4,"$2,722,173","$2,722,173","$2,722,173","$2,722,173",$0,$0,$0,Torino
+129,Davide Santon (http://www.capology.com/soccer/player/davide-santon/salary-profile/),"$52,349",LB,28,Reserve,4,"$2,722,173","$2,722,173","$2,722,173","$2,722,173",$0,$0,$0,Roma
+130,Joaquín Correa (http://www.capology.com/soccer/player/joaquin-correa/salary-profile/),"$52,349",LW,24,Reserve,5,"$2,722,173","$2,722,173","$2,722,173","$2,722,173","$2,722,173",$0,$0,Lazio
+131,Andrea Petagna (http://www.capology.com/soccer/player/andrea-petagna/salary-profile/),"$48,326",CF,23,Starter,2,"$2,512,949","$2,512,949",$0,$0,$0,$0,$0,SPAL
+132,Blerim Dzemaili (http://www.capology.com/soccer/player/blerim-dzemaili/salary-profile/),"$48,326",CM,33,Reserve,2,"$2,512,949","$2,512,949",$0,$0,$0,$0,$0,Bologna
+133,Dalbert (http://www.capology.com/soccer/player/dalbert/salary-profile/),"$48,326",LB,25,Reserve,5,"$2,512,949","$2,512,949","$2,512,949","$2,512,949","$2,512,949",$0,$0,Inter Milan
+134,Domenico Criscito (http://www.capology.com/soccer/player/domenico-criscito/salary-profile/),"$48,326",LB,32,Starter,4,"$2,512,949","$2,512,949","$2,512,949","$2,512,949",$0,$0,$0,Genoa
+135,Fabio Quagliarella (http://www.capology.com/soccer/player/fabio-quagliarella/salary-profile/),"$48,326",CF,36,Starter,2,"$2,512,949","$2,512,949",$0,$0,$0,$0,$0,Sampdoria
+136,Leonardo Pavoletti (http://www.capology.com/soccer/player/leonardo-pavoletti/salary-profile/),"$48,326",CF,30,Starter,4,"$2,512,949","$2,512,949","$2,512,949","$2,512,949",$0,$0,$0,Cagliari
+137,Nikola Maksimovic (http://www.capology.com/soccer/player/nikola-maksimovic/salary-profile/),"$48,326",CB,27,Reserve,3,"$2,512,949","$2,512,949","$2,512,949",$0,$0,$0,$0,Napoli
+138,Roberto Inglese (http://www.capology.com/soccer/player/roberto-inglese/salary-profile/),"$48,326",CF,27,Starter,1,"$2,512,949",$0,$0,$0,$0,$0,$0,Parma
+139,Robin Olsen (http://www.capology.com/soccer/player/robin-olsen/salary-profile/),"$48,326",GK,29,Starter,5,"$2,512,949","$2,512,949","$2,512,949","$2,512,949","$2,512,949",$0,$0,Roma
+140,Rolando Mandragora (http://www.capology.com/soccer/player/rolando-mandragora/salary-profile/),"$48,326",CM,21,Starter,5,"$2,512,949","$2,512,949","$2,512,949","$2,512,949","$2,512,949",$0,$0,Udinese
+141,Stefano Sturaro (http://www.capology.com/soccer/player/stefano-sturaro/salary-profile/),"$45,238",CM,26,Reserve,1,"$2,352,355",$0,$0,$0,$0,$0,$0,Genoa
+142,Albin Ekdal (http://www.capology.com/soccer/player/albin-ekdal/salary-profile/),"$44,302",CM,29,Starter,3,"$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,$0,Sampdoria
+143,Davide Calabria (http://www.capology.com/soccer/player/davide-calabria/salary-profile/),"$44,302",RB,22,Starter,4,"$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,AC Milan
+144,Gastón Ramírez (http://www.capology.com/soccer/player/gaston-ramirez/salary-profile/),"$44,302",AM,28,Reserve,4,"$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,Sampdoria
+145,Germán Pezzella (http://www.capology.com/soccer/player/german-pezzella/salary-profile/),"$44,302",CB,27,Starter,4,"$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,Fiorentina
+146,Gerson (http://www.capology.com/soccer/player/gerson/salary-profile/),"$44,302",CM,21,Starter,1,"$2,303,725",$0,$0,$0,$0,$0,$0,Fiorentina
+147,Giovanni Simeone (http://www.capology.com/soccer/player/giovanni-simeone/salary-profile/),"$44,302",CF,23,Reserve,4,"$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,Fiorentina
+148,Kevin Mirallas (http://www.capology.com/soccer/player/kevin-mirallas/salary-profile/),"$44,302",RW,31,Starter,1,"$2,303,725",$0,$0,$0,$0,$0,$0,Fiorentina
+149,Lorenzo Tonelli (http://www.capology.com/soccer/player/lorenzo-tonelli/salary-profile/),"$44,302",CB,29,Reserve,1,"$2,303,725",$0,$0,$0,$0,$0,$0,Sampdoria
+150,Marco Benassi (http://www.capology.com/soccer/player/marco-benassi/salary-profile/),"$44,302",CM,24,Reserve,4,"$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,Fiorentina
+151,Patrick Cutrone (http://www.capology.com/soccer/player/patrick-cutrone/salary-profile/),"$44,302",CF,21,Reserve,5,"$2,303,725","$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,AC Milan
+152,Piotr Zielinski (http://www.capology.com/soccer/player/piotr-zielinski/salary-profile/),"$44,302",CM,24,Starter,3,"$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,$0,Napoli
+153,Riza Durmisi (http://www.capology.com/soccer/player/riza-durmisi/salary-profile/),"$44,302",LB,25,Reserve,5,"$2,303,725","$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,Lazio
+154,Soualiho Meïté (http://www.capology.com/soccer/player/soualiho-meite/salary-profile/),"$44,302",DM,25,Reserve,5,"$2,303,725","$2,303,725","$2,303,725","$2,303,725","$2,303,725",$0,$0,Torino
+155,Vitor Hugo (http://www.capology.com/soccer/player/vitor-hugo/salary-profile/),"$44,302",CB,27,Reserve,3,"$2,303,725","$2,303,725","$2,303,725",$0,$0,$0,$0,Fiorentina
+156,Martín Cáceres (http://www.capology.com/soccer/player/martin-caceres/salary-profile/),"$44,259",CB,32,Reserve,1,"$2,301,463",$0,$0,$0,$0,$0,$0,Juventus
+157,Sandro (http://www.capology.com/soccer/player/sandro/salary-profile/),"$44,259",DM,30,Reserve,1,"$2,301,463",$0,$0,$0,$0,$0,$0,Udinese
+158,Ravel Morrison (http://www.capology.com/soccer/player/ravel-morrison/salary-profile/),"$40,562",AM,26,Reserve,1,"$2,109,203",$0,$0,$0,$0,$0,$0,Lazio
+159,Alberto Paloschi (http://www.capology.com/soccer/player/alberto-paloschi/salary-profile/),"$40,279",CF,29,Reserve,3,"$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,$0,SPAL
+160,Alessandro Matri (http://www.capology.com/soccer/player/alessandro-matri/salary-profile/),"$40,279",CF,34,Reserve,1,"$2,094,501",$0,$0,$0,$0,$0,$0,Sassuolo
+161,Alex Meret (http://www.capology.com/soccer/player/alex-meret/salary-profile/),"$40,279",GK,22,Starter,5,"$2,094,501","$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,Napoli
+162,Andrea Consigli (http://www.capology.com/soccer/player/andrea-consigli/salary-profile/),"$40,279",GK,32,Starter,4,"$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,Sassuolo
+163,Antonio Donnarumma (http://www.capology.com/soccer/player/antonio-donnarumma/salary-profile/),"$40,279",GK,28,Reserve,3,"$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,$0,AC Milan
+164,Bastos (http://www.capology.com/soccer/player/bastos/salary-profile/),"$40,279",CB,28,Starter,2,"$2,094,501","$2,094,501",$0,$0,$0,$0,$0,Lazio
+165,Cengiz Ünder (http://www.capology.com/soccer/player/cengiz-under/salary-profile/),"$40,279",RW,21,Reserve,4,"$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,Roma
+166,Darijo Srna (http://www.capology.com/soccer/player/darijo-srna/salary-profile/),"$40,279",RB,36,Reserve,1,"$2,094,501",$0,$0,$0,$0,$0,$0,Cagliari
+167,Domenico Berardi (http://www.capology.com/soccer/player/domenico-berardi/salary-profile/),"$40,279",RW,24,Starter,4,"$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,Sassuolo
+168,Federico Santander (http://www.capology.com/soccer/player/federico-santander/salary-profile/),"$40,279",CF,27,Starter,4,"$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,Bologna
+169,Gervinho (http://www.capology.com/soccer/player/gervinho/salary-profile/),"$40,279",LW,31,Starter,3,"$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,$0,Parma
+170,Josip Ilicic (http://www.capology.com/soccer/player/josip-ilicic/salary-profile/),"$40,279",AM,31,Reserve,2,"$2,094,501","$2,094,501",$0,$0,$0,$0,$0,Atalanta
+171,Mario Pasalic (http://www.capology.com/soccer/player/mario-pasalic/salary-profile/),"$40,279",CM,24,Starter,1,"$2,094,501",$0,$0,$0,$0,$0,$0,Atalanta
+172,Rodrigo Bentancur (http://www.capology.com/soccer/player/rodrigo-bentancur/salary-profile/),"$40,279",CM,21,Reserve,4,"$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,Juventus
+173,Silvio Proto (http://www.capology.com/soccer/player/silvio-proto/salary-profile/),"$40,279",GK,35,Reserve,3,"$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,$0,Lazio
+174,Thomas Strakosha (http://www.capology.com/soccer/player/thomas-strakosha/salary-profile/),"$40,279",GK,24,Starter,4,"$2,094,501","$2,094,501","$2,094,501","$2,094,501",$0,$0,$0,Lazio
+175,Rômulo (http://www.capology.com/soccer/player/romulo/salary-profile/),"$40,235",CM,31,Reserve,1,"$2,092,239",$0,$0,$0,$0,$0,$0,Lazio
+176,Juraj Kucka (http://www.capology.com/soccer/player/juraj-kucka/salary-profile/),"$38,713",CM,32,Starter,4,"$2,013,073","$2,013,073","$2,013,073","$2,013,073",$0,$0,$0,Parma
+177,Grégoire Defrel (http://www.capology.com/soccer/player/gregoire-defrel/salary-profile/),"$38,256",CF,27,Starter,1,"$1,989,323",$0,$0,$0,$0,$0,$0,Sampdoria
+178,Omar Colley (http://www.capology.com/soccer/player/omar-colley/salary-profile/),"$38,256",CB,26,Starter,4,"$1,989,323","$1,989,323","$1,989,323","$1,989,323",$0,$0,$0,Sampdoria
+179,Adam Ounas (http://www.capology.com/soccer/player/adam-ounas/salary-profile/),"$36,255",LW,22,Reserve,4,"$1,885,277","$1,885,277","$1,885,277","$1,885,277",$0,$0,$0,Napoli
+180,Antonio Mirante (http://www.capology.com/soccer/player/antonio-mirante/salary-profile/),"$36,255",GK,35,Reserve,3,"$1,885,277","$1,885,277","$1,885,277",$0,$0,$0,$0,Roma
+181,Diego Falcinelli (http://www.capology.com/soccer/player/diego-falcinelli/salary-profile/),"$36,255",CF,27,Reserve,4,"$1,885,277","$1,885,277","$1,885,277","$1,885,277",$0,$0,$0,Bologna
+182,Jacopo Sala (http://www.capology.com/soccer/player/jacopo-sala/salary-profile/),"$36,255",RB,27,Reserve,2,"$1,885,277","$1,885,277",$0,$0,$0,$0,$0,Sampdoria
+183,Jordan Veretout (http://www.capology.com/soccer/player/jordan-veretout/salary-profile/),"$36,255",CM,26,Starter,3,"$1,885,277","$1,885,277","$1,885,277",$0,$0,$0,$0,Fiorentina
+184,Lorenzo De Silvestri (http://www.capology.com/soccer/player/lorenzo-de-silvestri/salary-profile/),"$36,255",RB,30,Starter,2,"$1,885,277","$1,885,277",$0,$0,$0,$0,$0,Torino
+185,Ragnar Klavan (http://www.capology.com/soccer/player/ragnar-klavan/salary-profile/),"$36,255",CB,33,Reserve,2,"$1,885,277","$1,885,277",$0,$0,$0,$0,$0,Cagliari
+186,Riccardo Saponara (http://www.capology.com/soccer/player/riccardo-saponara/salary-profile/),"$36,255",AM,27,Reserve,1,"$1,885,277",$0,$0,$0,$0,$0,$0,Sampdoria
+187,Rodrigo Palacio (http://www.capology.com/soccer/player/rodrigo-palacio/salary-profile/),"$36,255",CF,37,Starter,1,"$1,885,277",$0,$0,$0,$0,$0,$0,Bologna
+188,Wallace (http://www.capology.com/soccer/player/wallace/salary-profile/),"$36,255",CB,24,Reserve,3,"$1,885,277","$1,885,277","$1,885,277",$0,$0,$0,$0,Lazio
+189,Edimilson Fernandes (http://www.capology.com/soccer/player/edimilson-fernandes/salary-profile/),"$34,233",CM,22,Starter,1,"$1,780,100",$0,$0,$0,$0,$0,$0,Fiorentina
+190,Godfred Donsah (http://www.capology.com/soccer/player/godfred-donsah/salary-profile/),"$34,233",CM,22,Reserve,4,"$1,780,100","$1,780,100","$1,780,100","$1,780,100",$0,$0,$0,Bologna
+191,Lukasz Skorupski (http://www.capology.com/soccer/player/lukasz-skorupski/salary-profile/),"$34,233",GK,27,Starter,5,"$1,780,100","$1,780,100","$1,780,100","$1,780,100","$1,780,100",$0,$0,Bologna
+192,Adam Marusic (http://www.capology.com/soccer/player/adam-marusic/salary-profile/),"$32,210",RB,26,Starter,4,"$1,674,922","$1,674,922","$1,674,922","$1,674,922",$0,$0,$0,Lazio
+193,Alberto Grassi (http://www.capology.com/soccer/player/alberto-grassi/salary-profile/),"$32,210",CM,24,Reserve,1,"$1,674,922",$0,$0,$0,$0,$0,$0,Parma
+194,Andrea Poli (http://www.capology.com/soccer/player/andrea-poli/salary-profile/),"$32,210",CM,29,Starter,3,"$1,674,922","$1,674,922","$1,674,922",$0,$0,$0,$0,Bologna
+195,Danilo Larangeira (http://www.capology.com/soccer/player/danilo-larangeira/salary-profile/),"$32,210",CB,34,Starter,1,"$1,674,922",$0,$0,$0,$0,$0,$0,Bologna
+196,Dusan Basta (http://www.capology.com/soccer/player/dusan-basta/salary-profile/),"$32,210",RB,34,Reserve,1,"$1,674,922",$0,$0,$0,$0,$0,$0,Lazio
+197,Giancarlo González (http://www.capology.com/soccer/player/giancarlo-gonzalez/salary-profile/),"$32,210",CB,31,Reserve,2,"$1,674,922","$1,674,922",$0,$0,$0,$0,$0,Bologna
+198,Jakub Jankto (http://www.capology.com/soccer/player/jakub-jankto/salary-profile/),"$32,210",CM,23,Starter,5,"$1,674,922","$1,674,922","$1,674,922","$1,674,922","$1,674,922",$0,$0,Sampdoria
+199,Jordan Lukaku (http://www.capology.com/soccer/player/jordan-lukaku/salary-profile/),"$32,210",LB,24,Reserve,1,"$1,674,922",$0,$0,$0,$0,$0,$0,Lazio
+200,Kévin Malcuit (http://www.capology.com/soccer/player/kevin-malcuit/salary-profile/),"$32,210",RB,27,Reserve,4,"$1,674,922","$1,674,922","$1,674,922","$1,674,922",$0,$0,$0,Napoli
+201,Patric (http://www.capology.com/soccer/player/patric/salary-profile/),"$32,210",RB,25,Reserve,4,"$1,674,922","$1,674,922","$1,674,922","$1,674,922",$0,$0,$0,Lazio
+202,Rafael Tolói (http://www.capology.com/soccer/player/rafael-toloi/salary-profile/),"$32,210",CB,28,Starter,2,"$1,674,922","$1,674,922",$0,$0,$0,$0,$0,Atalanta
+203,Valon Behrami (http://www.capology.com/soccer/player/valon-behrami/salary-profile/),"$32,210",DM,33,Starter,1,"$1,674,922",$0,$0,$0,$0,$0,$0,Udinese
+204,Sebastien De Maio (http://www.capology.com/soccer/player/sebastien-de-maio/salary-profile/),"$32,188",CB,32,Starter,1,"$1,673,791",$0,$0,$0,$0,$0,$0,Udinese
+205,Gianluca Caprari (http://www.capology.com/soccer/player/gianluca-caprari/salary-profile/),"$30,209",SS,25,Reserve,4,"$1,570,876","$1,570,876","$1,570,876","$1,570,876",$0,$0,$0,Sampdoria
+206,Ibrahima Mbaye (http://www.capology.com/soccer/player/ibrahima-mbaye/salary-profile/),"$30,209",RB,24,Starter,5,"$1,570,876","$1,570,876","$1,570,876","$1,570,876","$1,570,876",$0,$0,Bologna
+207,Ronaldo Vieira (http://www.capology.com/soccer/player/ronaldo-vieira/salary-profile/),"$30,209",CM,20,Reserve,5,"$1,570,876","$1,570,876","$1,570,876","$1,570,876","$1,570,876",$0,$0,Sampdoria
+208,Valter Birsa (http://www.capology.com/soccer/player/valter-birsa/salary-profile/),"$29,905",AM,32,Starter,3,"$1,555,043","$1,555,043","$1,555,043",$0,$0,$0,$0,Cagliari
+209,Alfred Duncan (http://www.capology.com/soccer/player/alfred-duncan/salary-profile/),"$28,187",CM,26,Starter,2,"$1,465,698","$1,465,698",$0,$0,$0,$0,$0,Sassuolo
+210,Amadou Diawara (http://www.capology.com/soccer/player/amadou-diawara/salary-profile/),"$28,187",DM,21,Reserve,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Napoli
+211,Andrea Favilli (http://www.capology.com/soccer/player/andrea-favilli/salary-profile/),"$28,187",CF,21,Reserve,1,"$1,465,698",$0,$0,$0,$0,$0,$0,Genoa
+212,Bruno Alves (http://www.capology.com/soccer/player/bruno-alves/salary-profile/),"$28,187",CB,37,Starter,2,"$1,465,698","$1,465,698",$0,$0,$0,$0,$0,Parma
+213,Danilo Cataldi (http://www.capology.com/soccer/player/danilo-cataldi/salary-profile/),"$28,187",CM,24,Reserve,2,"$1,465,698","$1,465,698",$0,$0,$0,$0,$0,Lazio
+214,Emanuele Giaccherini (http://www.capology.com/soccer/player/emanuele-giaccherini/salary-profile/),"$28,187",LM,33,Starter,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Chievo Verona
+215,Etrit Berisha (http://www.capology.com/soccer/player/etrit-berisha/salary-profile/),"$28,187",GK,30,Reserve,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Atalanta
+216,Federico Marchetti (http://www.capology.com/soccer/player/federico-marchetti/salary-profile/),"$28,187",GK,36,Reserve,2,"$1,465,698","$1,465,698",$0,$0,$0,$0,$0,Genoa
+217,Federico Peluso (http://www.capology.com/soccer/player/federico-peluso/salary-profile/),"$28,187",LB,35,Starter,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Sassuolo
+218,Filip Djordjevic (http://www.capology.com/soccer/player/filip-djordjevic/salary-profile/),"$28,187",CF,31,Reserve,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Chievo Verona
+219,Filip Djuricic (http://www.capology.com/soccer/player/filip-djuricic/salary-profile/),"$28,187",AM,27,Starter,4,"$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,Sassuolo
+220,Khouma Babacar (http://www.capology.com/soccer/player/khouma-babacar/salary-profile/),"$28,187",CF,26,Starter,4,"$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,Sassuolo
+221,Lucas Castro (http://www.capology.com/soccer/player/lucas-castro/salary-profile/),"$28,187",CM,30,Reserve,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Cagliari
+222,Luiz Felipe (http://www.capology.com/soccer/player/luiz-felipe/salary-profile/),"$28,187",CB,22,Reserve,4,"$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,Lazio
+223,Manuel Locatelli (http://www.capology.com/soccer/player/manuel-locatelli/salary-profile/),"$28,187",DM,21,Starter,5,"$1,465,698","$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,Sassuolo
+224,Marten de Roon (http://www.capology.com/soccer/player/marten-de-roon/salary-profile/),"$28,187",CM,28,Starter,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Atalanta
+225,Mirko Valdifiori (http://www.capology.com/soccer/player/mirko-valdifiori/salary-profile/),"$28,187",DM,32,Reserve,2,"$1,465,698","$1,465,698",$0,$0,$0,$0,$0,SPAL
+226,Nenad Tomović (http://www.capology.com/soccer/player/nenad-tomovic/salary-profile/),"$28,187",CB,31,Reserve,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,Chievo Verona
+227,Nicolò Barella (http://www.capology.com/soccer/player/nicolo-barella/salary-profile/),"$28,187",CM,22,Starter,4,"$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,Cagliari
+228,Nicolò Zaniolo (http://www.capology.com/soccer/player/nicolo-zaniolo/salary-profile/),"$28,187",AM,19,Starter,5,"$1,465,698","$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,Roma
+229,Simone Missiroli (http://www.capology.com/soccer/player/simone-missiroli/salary-profile/),"$28,187",CM,32,Starter,3,"$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,$0,SPAL
+230,Simone Padoin (http://www.capology.com/soccer/player/simone-padoin/salary-profile/),"$28,187",CM,35,Starter,1,"$1,465,698",$0,$0,$0,$0,$0,$0,Cagliari
+231,Álex Berenguer (http://www.capology.com/soccer/player/alex-berenguer/salary-profile/),"$28,187",LW,23,Reserve,4,"$1,465,698","$1,465,698","$1,465,698","$1,465,698",$0,$0,$0,Torino
+232,Alessandro Murgia (http://www.capology.com/soccer/player/alessandro-murgia/salary-profile/),"$28,165",CM,22,Reserve,1,"$1,464,567",$0,$0,$0,$0,$0,$0,SPAL
+233,Cyril Théréau (http://www.capology.com/soccer/player/cyril-thereau/salary-profile/),"$28,056",SS,35,Reserve,1,"$1,458,913",$0,$0,$0,$0,$0,$0,Cagliari
+234,Nicola Sansone (http://www.capology.com/soccer/player/nicola-sansone/salary-profile/),"$26,751",LW,27,Reserve,1,"$1,391,056",$0,$0,$0,$0,$0,$0,Bologna
+235,Nicola Murru (http://www.capology.com/soccer/player/nicola-murru/salary-profile/),"$26,186",LB,24,Starter,4,"$1,361,652","$1,361,652","$1,361,652","$1,361,652",$0,$0,$0,Sampdoria
+236,Édgar Barreto (http://www.capology.com/soccer/player/edgar-barreto/salary-profile/),"$26,186",CM,34,Reserve,1,"$1,361,652",$0,$0,$0,$0,$0,$0,Sampdoria
+237,Marvin Zeegelaar (http://www.capology.com/soccer/player/marvin-zeegelaar/salary-profile/),"$25,229",LB,28,Reserve,1,"$1,311,890",$0,$0,$0,$0,$0,$0,Udinese
+238,Emiliano Viviano (http://www.capology.com/soccer/player/emiliano-viviano/salary-profile/),"$24,685",GK,33,Starter,1,"$1,283,617",$0,$0,$0,$0,$0,$0,SPAL
+239,Alban Lafont (http://www.capology.com/soccer/player/alban-lafont/salary-profile/),"$24,163",GK,20,Starter,5,"$1,256,474","$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,Fiorentina
+240,Alessio Cragno (http://www.capology.com/soccer/player/alessio-cragno/salary-profile/),"$24,163",GK,24,Reserve,4,"$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,Cagliari
+241,Andrei Radu (http://www.capology.com/soccer/player/andrei-radu/salary-profile/),"$24,163",GK,21,Starter,5,"$1,256,474","$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,Genoa
+242,Artur Ionita (http://www.capology.com/soccer/player/artur-ionita/salary-profile/),"$24,163",CM,28,Starter,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Cagliari
+243,Cristiano Biraghi (http://www.capology.com/soccer/player/cristiano-biraghi/salary-profile/),"$24,163",LB,26,Starter,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Fiorentina
+244,Ervin Zukanovic (http://www.capology.com/soccer/player/ervin-zukanovic/salary-profile/),"$24,163",CB,32,Starter,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Genoa
+245,Federico Di Francesco (http://www.capology.com/soccer/player/federico-di-francesco/salary-profile/),"$24,163",LW,24,Reserve,5,"$1,256,474","$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,Sassuolo
+246,Filip Bradaric (http://www.capology.com/soccer/player/filip-bradaric/salary-profile/),"$24,163",DM,27,Reserve,5,"$1,256,474","$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,Cagliari
+247,Francesco Caputo (http://www.capology.com/soccer/player/francesco-caputo/salary-profile/),"$24,163",CF,31,Starter,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Empoli
+248,Francesco Magnanelli (http://www.capology.com/soccer/player/francesco-magnanelli/salary-profile/),"$24,163",DM,34,Reserve,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Sassuolo
+249,Gian Marco Ferrari (http://www.capology.com/soccer/player/gian-marco-ferrari/salary-profile/),"$24,163",CB,26,Reserve,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Sassuolo
+250,Jasmin Kurtic (http://www.capology.com/soccer/player/jasmin-kurtic/salary-profile/),"$24,163",CM,30,Starter,4,"$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,SPAL
+251,Jonathan Biabiany (http://www.capology.com/soccer/player/jonathan-biabiany/salary-profile/),"$24,163",RW,30,Starter,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Parma
+252,João Pedro (http://www.capology.com/soccer/player/joao-pedro/salary-profile/),"$24,163",AM,27,Reserve,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Cagliari
+253,Koffi Djidji (http://www.capology.com/soccer/player/koffi-djidji/salary-profile/),"$24,163",CB,26,Reserve,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Torino
+254,Luca Antonelli (http://www.capology.com/soccer/player/luca-antonelli/salary-profile/),"$24,163",LB,32,Reserve,3,"$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,$0,Empoli
+255,Luca Ceppitelli (http://www.capology.com/soccer/player/luca-ceppitelli/salary-profile/),"$24,163",CB,29,Starter,2,"$1,256,474","$1,256,474",$0,$0,$0,$0,$0,Cagliari
+256,Luca Cigarini (http://www.capology.com/soccer/player/luca-cigarini/salary-profile/),"$24,163",DM,32,Starter,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Cagliari
+257,Luca Rossettini (http://www.capology.com/soccer/player/luca-rossettini/salary-profile/),"$24,163",CB,33,Starter,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Chievo Verona
+258,Marco Sportiello (http://www.capology.com/soccer/player/marco-sportiello/salary-profile/),"$24,163",GK,26,Starter,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Frosinone
+259,Marlon (http://www.capology.com/soccer/player/marlon/salary-profile/),"$24,163",CB,23,Reserve,2,"$1,256,474","$1,256,474",$0,$0,$0,$0,$0,Sassuolo
+260,Matías Silvestre (http://www.capology.com/soccer/player/matias-silvestre/salary-profile/),"$24,163",CB,34,Starter,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Empoli
+261,Mehdi Bourabia (http://www.capology.com/soccer/player/mehdi-bourabia/salary-profile/),"$24,163",CM,27,Reserve,4,"$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,Sassuolo
+262,Nikola Milenkovic (http://www.capology.com/soccer/player/nikola-milenkovic/salary-profile/),"$24,163",CB,21,Starter,4,"$1,256,474","$1,256,474","$1,256,474","$1,256,474",$0,$0,$0,Fiorentina
+263,Oscar Hiljemark (http://www.capology.com/soccer/player/oscar-hiljemark/salary-profile/),"$24,163",CM,26,Reserve,2,"$1,256,474","$1,256,474",$0,$0,$0,$0,$0,Genoa
+264,Perparim Hetemaj (http://www.capology.com/soccer/player/perparim-hetemaj/salary-profile/),"$24,163",CM,32,Starter,2,"$1,256,474","$1,256,474",$0,$0,$0,$0,$0,Chievo Verona
+265,Riccardo Orsolini (http://www.capology.com/soccer/player/riccardo-orsolini/salary-profile/),"$24,163",RW,22,Starter,1,"$1,256,474",$0,$0,$0,$0,$0,$0,Bologna
+266,Ivan Radovanovic (http://www.capology.com/soccer/player/ivan-radovanovic/salary-profile/),"$24,141",DM,30,Starter,3,"$1,255,343","$1,255,343","$1,255,343",$0,$0,$0,$0,Genoa
+267,Marco Sau (http://www.capology.com/soccer/player/marco-sau/salary-profile/),"$24,141",CF,31,Reserve,2,"$1,255,343","$1,255,343",$0,$0,$0,$0,$0,Sampdoria
+268,Luca Siligardi (http://www.capology.com/soccer/player/luca-siligardi/salary-profile/),"$23,771",RW,31,Reserve,2,"$1,236,117","$1,236,117",$0,$0,$0,$0,$0,Parma
+269,Marco Andreolli (http://www.capology.com/soccer/player/marco-andreolli/salary-profile/),"$23,380",CB,32,Reserve,1,"$1,215,761",$0,$0,$0,$0,$0,$0,Chievo Verona
+270,Miguel Veloso (http://www.capology.com/soccer/player/miguel-veloso/salary-profile/),"$23,054",DM,32,Reserve,3,"$1,198,796","$1,198,796","$1,198,796",$0,$0,$0,$0,Genoa
+271,Emil Audero (http://www.capology.com/soccer/player/emil-audero/salary-profile/),"$22,162",GK,22,Starter,1,"$1,152,428",$0,$0,$0,$0,$0,$0,Sampdoria
+272,Emmanuel Badu (http://www.capology.com/soccer/player/emmanuel-badu/salary-profile/),"$22,162",CM,28,Reserve,2,"$1,152,428","$1,152,428",$0,$0,$0,$0,$0,Udinese
+273,Fabio Ceravolo (http://www.capology.com/soccer/player/fabio-ceravolo/salary-profile/),"$22,162",CF,32,Reserve,2,"$1,152,428","$1,152,428",$0,$0,$0,$0,$0,Parma
+274,Federico Mattiello (http://www.capology.com/soccer/player/federico-mattiello/salary-profile/),"$22,162",RB,23,Reserve,1,"$1,152,428",$0,$0,$0,$0,$0,$0,Bologna
+275,Ladislav Krejci (http://www.capology.com/soccer/player/ladislav-krejci/salary-profile/),"$22,162",LW,26,Reserve,2,"$1,152,428","$1,152,428",$0,$0,$0,$0,$0,Bologna
+276,Moise Kean (http://www.capology.com/soccer/player/moise-kean/salary-profile/),"$22,162",CF,19,Reserve,2,"$1,152,428","$1,152,428",$0,$0,$0,$0,$0,Juventus
+277,Riccardo Meggiorini (http://www.capology.com/soccer/player/riccardo-meggiorini/salary-profile/),"$22,162",SS,33,Reserve,2,"$1,152,428","$1,152,428",$0,$0,$0,$0,$0,Chievo Verona
+278,Stefano Sorrentino (http://www.capology.com/soccer/player/stefano-sorrentino/salary-profile/),"$22,162",GK,40,Starter,1,"$1,152,428",$0,$0,$0,$0,$0,$0,Chievo Verona
+279,Stefano Okaka (http://www.capology.com/soccer/player/stefano-okaka/salary-profile/),"$22,075",CF,29,Reserve,1,"$1,147,904",$0,$0,$0,$0,$0,$0,Udinese
+280,Antonio Sanabria (http://www.capology.com/soccer/player/antonio-sanabria/salary-profile/),"$20,444",CF,23,Starter,2,"$1,063,084","$1,063,084",$0,$0,$0,$0,$0,Genoa
+281,Afriyie Acquah (http://www.capology.com/soccer/player/afriyie-acquah/salary-profile/),"$20,139",CM,27,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Empoli
+282,Alberto Cerri (http://www.capology.com/soccer/player/alberto-cerri/salary-profile/),"$20,139",CF,22,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Cagliari
+283,Andrea Masiello (http://www.capology.com/soccer/player/andrea-masiello/salary-profile/),"$20,139",CB,33,Starter,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Atalanta
+284,Antonino La Gumina (http://www.capology.com/soccer/player/antonino-la-gumina/salary-profile/),"$20,139",CF,23,Reserve,5,"$1,047,250","$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,Empoli
+285,Bryan Dabo (http://www.capology.com/soccer/player/bryan-dabo/salary-profile/),"$20,139",CM,27,Reserve,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Fiorentina
+286,Camillo Ciano (http://www.capology.com/soccer/player/camillo-ciano/salary-profile/),"$20,139",RW,29,Starter,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Frosinone
+287,Charalampos Lykogiannis (http://www.capology.com/soccer/player/charalampos-lykogiannis/salary-profile/),"$20,139",LB,25,Reserve,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Cagliari
+288,Cristian Molinaro (http://www.capology.com/soccer/player/cristian-molinaro/salary-profile/),"$20,139",LB,35,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Frosinone
+289,Daniel Ciofani (http://www.capology.com/soccer/player/daniel-ciofani/salary-profile/),"$20,139",CF,33,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Frosinone
+290,Daniel Fuzato (http://www.capology.com/soccer/player/daniel-fuzato/salary-profile/),"$20,139",GK,21,Reserve,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Roma
+291,Daniele Padelli (http://www.capology.com/soccer/player/daniele-padelli/salary-profile/),"$20,139",GK,33,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Inter Milan
+292,Edoardo Goldaniga (http://www.capology.com/soccer/player/edoardo-goldaniga/salary-profile/),"$20,139",CB,25,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Frosinone
+293,Federico Ceccherini (http://www.capology.com/soccer/player/federico-ceccherini/salary-profile/),"$20,139",CB,26,Reserve,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Fiorentina
+294,Federico Dionisi (http://www.capology.com/soccer/player/federico-dionisi/salary-profile/),"$20,139",CF,31,Reserve,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Frosinone
+295,Filip Helander (http://www.capology.com/soccer/player/filip-helander/salary-profile/),"$20,139",CB,25,Reserve,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Bologna
+296,Francesco Bardi (http://www.capology.com/soccer/player/francesco-bardi/salary-profile/),"$20,139",GK,27,Reserve,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Frosinone
+297,Gianluca Pegolo (http://www.capology.com/soccer/player/gianluca-pegolo/salary-profile/),"$20,139",GK,38,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Sassuolo
+298,Goran Pandev (http://www.capology.com/soccer/player/goran-pandev/salary-profile/),"$20,139",SS,35,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Genoa
+299,Ignacio Pussetto (http://www.capology.com/soccer/player/ignacio-pussetto/salary-profile/),"$20,139",RW,23,Reserve,5,"$1,047,250","$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,Udinese
+300,Karol Linetty (http://www.capology.com/soccer/player/karol-linetty/salary-profile/),"$20,139",CM,24,Starter,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Sampdoria
+301,Lorenzo Ariaudo (http://www.capology.com/soccer/player/lorenzo-ariaudo/salary-profile/),"$20,139",CB,29,Reserve,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Frosinone
+302,Luigi Sepe (http://www.capology.com/soccer/player/luigi-sepe/salary-profile/),"$20,139",GK,27,Starter,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Parma
+303,Ola Aina (http://www.capology.com/soccer/player/ola-aina/salary-profile/),"$20,139",RB,22,Starter,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Torino
+304,Orestis Karnezis (http://www.capology.com/soccer/player/orestis-karnezis/salary-profile/),"$20,139",GK,33,Reserve,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Napoli
+305,Rafael Cabral (http://www.capology.com/soccer/player/rafael-cabral/salary-profile/),"$20,139",GK,28,Reserve,1,"$1,047,250",$0,$0,$0,$0,$0,$0,Sampdoria
+306,Raman Chibsah (http://www.capology.com/soccer/player/raman-chibsah/salary-profile/),"$20,139",CM,26,Starter,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Frosinone
+307,Remo Freuler (http://www.capology.com/soccer/player/remo-freuler/salary-profile/),"$20,139",CM,26,Starter,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Atalanta
+308,Seko Fofana (http://www.capology.com/soccer/player/seko-fofana/salary-profile/),"$20,139",CM,23,Starter,4,"$1,047,250","$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,Udinese
+309,Stefano Sensi (http://www.capology.com/soccer/player/stefano-sensi/salary-profile/),"$20,139",DM,23,Starter,2,"$1,047,250","$1,047,250",$0,$0,$0,$0,$0,Sassuolo
+310,Vincent Laurini (http://www.capology.com/soccer/player/vincent-laurini/salary-profile/),"$20,139",RB,29,Starter,2,"$1,047,250","$1,047,250",$0,$0,$0,$0,$0,Fiorentina
+311,Ádám Nagy (http://www.capology.com/soccer/player/adam-nagy/salary-profile/),"$20,139",DM,23,Reserve,3,"$1,047,250","$1,047,250","$1,047,250",$0,$0,$0,$0,Bologna
+312,Ezequiel Schelotto (http://www.capology.com/soccer/player/ezequiel-schelotto/salary-profile/),"$20,118",RB,29,Reserve,1,"$1,046,120",$0,$0,$0,$0,$0,$0,Chievo Verona
+313,Fabrizio Cacciatore (http://www.capology.com/soccer/player/fabrizio-cacciatore/salary-profile/),"$20,118",RB,32,Reserve,1,"$1,046,120",$0,$0,$0,$0,$0,$0,Cagliari
+314,Vasco Regini (http://www.capology.com/soccer/player/vasco-regini/salary-profile/),"$20,118",CB,28,Reserve,3,"$1,046,120","$1,046,120","$1,046,120",$0,$0,$0,$0,SPAL
+315,Diego Farias (http://www.capology.com/soccer/player/diego-farias/salary-profile/),"$19,683",SS,28,Starter,1,"$1,023,501",$0,$0,$0,$0,$0,$0,Empoli
+316,Bartosz Bereszynski (http://www.capology.com/soccer/player/bartosz-bereszynski/salary-profile/),"$18,117",RB,26,Starter,5,"$942,073","$942,073","$942,073","$942,073","$942,073",$0,$0,Sampdoria
+317,Bostjan Cesar (http://www.capology.com/soccer/player/bostjan-cesar/salary-profile/),"$18,117",CB,36,Reserve,1,"$942,073",$0,$0,$0,$0,$0,$0,Chievo Verona
+318,Davide Biraschi (http://www.capology.com/soccer/player/davide-biraschi/salary-profile/),"$18,117",CB,24,Starter,4,"$942,073","$942,073","$942,073","$942,073",$0,$0,$0,Genoa
+319,José Luis Palomino (http://www.capology.com/soccer/player/jose-luis-palomino/salary-profile/),"$18,117",CB,29,Starter,2,"$942,073","$942,073",$0,$0,$0,$0,$0,Atalanta
+320,Júnior Tavares (http://www.capology.com/soccer/player/junior-tavares/salary-profile/),"$18,117",LB,22,Reserve,1,"$942,073",$0,$0,$0,$0,$0,$0,Sampdoria
+321,Kevin Lasagna (http://www.capology.com/soccer/player/kevin-lasagna/salary-profile/),"$18,117",CF,26,Starter,5,"$942,073","$942,073","$942,073","$942,073","$942,073",$0,$0,Udinese
+322,Mitchell Dijks (http://www.capology.com/soccer/player/mitchell-dijks/salary-profile/),"$18,117",LB,26,Starter,5,"$942,073","$942,073","$942,073","$942,073","$942,073",$0,$0,Bologna
+323,Nehuén Paz (http://www.capology.com/soccer/player/nehuen-paz/salary-profile/),"$18,117",CB,25,Reserve,3,"$942,073","$942,073","$942,073",$0,$0,$0,$0,Bologna
+324,Nicola Rigoni (http://www.capology.com/soccer/player/nicola-rigoni/salary-profile/),"$18,117",CM,28,Starter,1,"$942,073",$0,$0,$0,$0,$0,$0,Chievo Verona
+325,Rodrigo de Paul (http://www.capology.com/soccer/player/rodrigo-de-paul/salary-profile/),"$18,117",RW,24,Starter,5,"$942,073","$942,073","$942,073","$942,073","$942,073",$0,$0,Udinese
+326,Lucas Piazón (http://www.capology.com/soccer/player/lucas-piazon/salary-profile/),"$17,617",RW,25,Reserve,1,"$916,061",$0,$0,$0,$0,$0,$0,Chievo Verona
+327,Marcello Trotta (http://www.capology.com/soccer/player/marcello-trotta/salary-profile/),"$16,420",CF,26,Reserve,3,"$853,860","$853,860","$853,860",$0,$0,$0,$0,Frosinone
+328,Alessandro Bastoni (http://www.capology.com/soccer/player/alessandro-bastoni/salary-profile/),"$16,116",CB,19,Starter,1,"$838,027",$0,$0,$0,$0,$0,$0,Parma
+329,Alex Ferrari (http://www.capology.com/soccer/player/alex-ferrari/salary-profile/),"$16,116",CB,24,Reserve,1,"$838,027",$0,$0,$0,$0,$0,$0,Sampdoria
+330,Bartosz Salamon (http://www.capology.com/soccer/player/bartosz-salamon/salary-profile/),"$16,116",CB,27,Starter,1,"$838,027",$0,$0,$0,$0,$0,$0,Frosinone
+331,Darko Lazovic (http://www.capology.com/soccer/player/darko-lazovic/salary-profile/),"$16,116",RM,28,Starter,2,"$838,027","$838,027",$0,$0,$0,$0,$0,Genoa
+332,David Hancko (http://www.capology.com/soccer/player/david-hancko/salary-profile/),"$16,116",LB,21,Reserve,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,Fiorentina
+333,Emiliano Moretti (http://www.capology.com/soccer/player/emiliano-moretti/salary-profile/),"$16,116",CB,37,Starter,1,"$838,027",$0,$0,$0,$0,$0,$0,Torino
+334,Erick Pulgar (http://www.capology.com/soccer/player/erick-pulgar/salary-profile/),"$16,116",DM,25,Starter,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Bologna
+335,Fabio Pisacane (http://www.capology.com/soccer/player/fabio-pisacane/salary-profile/),"$16,116",CB,33,Starter,2,"$838,027","$838,027",$0,$0,$0,$0,$0,Cagliari
+336,Federico Barba (http://www.capology.com/soccer/player/federico-barba/salary-profile/),"$16,116",CB,25,Starter,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Chievo Verona
+337,Felipe Dal Bello (http://www.capology.com/soccer/player/felipe-dal-bello/salary-profile/),"$16,116",CB,34,Starter,2,"$838,027","$838,027",$0,$0,$0,$0,$0,SPAL
+338,Filippo Romagna (http://www.capology.com/soccer/player/filippo-romagna/salary-profile/),"$16,116",CB,21,Starter,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Cagliari
+339,Francesco Vicari (http://www.capology.com/soccer/player/francesco-vicari/salary-profile/),"$16,116",CB,24,Reserve,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,SPAL
+340,Jacopo Dezi (http://www.capology.com/soccer/player/jacopo-dezi/salary-profile/),"$16,116",CM,27,Reserve,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Parma
+341,Jeremie Boga (http://www.capology.com/soccer/player/jeremie-boga/salary-profile/),"$16,116",AM,22,Reserve,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Sassuolo
+342,Juan Musso (http://www.capology.com/soccer/player/juan-musso/salary-profile/),"$16,116",GK,24,Starter,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,Udinese
+343,Lukasz Teodorczyk (http://www.capology.com/soccer/player/lukasz-teodorczyk/salary-profile/),"$16,116",CF,27,Reserve,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Udinese
+344,Manuel Lazzari (http://www.capology.com/soccer/player/manuel-lazzari/salary-profile/),"$16,116",RM,25,Starter,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,SPAL
+345,Mariusz Stepinski (http://www.capology.com/soccer/player/mariusz-stepinski/salary-profile/),"$16,116",CF,23,Starter,3,"$838,027","$838,027","$838,027",$0,$0,$0,$0,Chievo Verona
+346,Mattias Svanberg (http://www.capology.com/soccer/player/mattias-svanberg/salary-profile/),"$16,116",DM,20,Reserve,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,Bologna
+347,Mauricio Lemos (http://www.capology.com/soccer/player/mauricio-lemos/salary-profile/),"$16,116",CB,23,Reserve,1,"$838,027",$0,$0,$0,$0,$0,$0,Sassuolo
+348,Mirco Antenucci (http://www.capology.com/soccer/player/mirco-antenucci/salary-profile/),"$16,116",CF,34,Starter,2,"$838,027","$838,027",$0,$0,$0,$0,$0,SPAL
+349,Paolo Faragò (http://www.capology.com/soccer/player/paolo-farago/salary-profile/),"$16,116",RB,26,Starter,4,"$838,027","$838,027","$838,027","$838,027",$0,$0,$0,Cagliari
+350,Pasquale Schiattarella (http://www.capology.com/soccer/player/pasquale-schiattarella/salary-profile/),"$16,116",CM,31,Reserve,2,"$838,027","$838,027",$0,$0,$0,$0,$0,SPAL
+351,Pierluigi Gollini (http://www.capology.com/soccer/player/pierluigi-gollini/salary-profile/),"$16,116",GK,24,Starter,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,Atalanta
+352,Rade Krunic (http://www.capology.com/soccer/player/rade-krunic/salary-profile/),"$16,116",CM,25,Starter,3,"$838,027","$838,027","$838,027",$0,$0,$0,$0,Empoli
+353,Sasa Lukic (http://www.capology.com/soccer/player/sasa-lukic/salary-profile/),"$16,116",CM,22,Starter,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,Torino
+354,Sebastiano Luperto (http://www.capology.com/soccer/player/sebastiano-luperto/salary-profile/),"$16,116",CB,22,Reserve,5,"$838,027","$838,027","$838,027","$838,027","$838,027",$0,$0,Napoli
+355,Timothy Castagne (http://www.capology.com/soccer/player/timothy-castagne/salary-profile/),"$16,116",RB,23,Starter,2,"$838,027","$838,027",$0,$0,$0,$0,$0,Atalanta
+356,Gabriel Brazão (http://www.capology.com/soccer/player/gabriel-brazao/salary-profile/),"$16,094",GK,18,Reserve,5,"$836,896","$836,896","$836,896","$836,896","$836,896",$0,$0,Parma
+357,Giuseppe Pezzella (http://www.capology.com/soccer/player/giuseppe-pezzella/salary-profile/),"$16,094",LB,21,Reserve,1,"$836,896",$0,$0,$0,$0,$0,$0,Genoa
+358,Luca Pellegrini (http://www.capology.com/soccer/player/luca-pellegrini/salary-profile/),"$16,094",LB,20,Reserve,1,"$836,896",$0,$0,$0,$0,$0,$0,Cagliari
+359,Simone Edera (http://www.capology.com/soccer/player/simone-edera/salary-profile/),"$16,094",RW,22,Reserve,1,"$836,896",$0,$0,$0,$0,$0,$0,Bologna
+360,Roger Ibañez (http://www.capology.com/soccer/player/roger-ibanez/salary-profile/),"$15,659",CB,20,Reserve,6,"$814,277","$814,277","$814,277","$814,277","$814,277","$814,277",$0,Atalanta
+361,Federico Viviani (http://www.capology.com/soccer/player/federico-viviani/salary-profile/),"$14,137",DM,27,Starter,1,"$735,111",$0,$0,$0,$0,$0,$0,Frosinone
+362,Lukas Lerager (http://www.capology.com/soccer/player/lukas-lerager/salary-profile/),"$14,137",CM,25,Starter,1,"$735,111",$0,$0,$0,$0,$0,$0,Genoa
+363,Lyanco (http://www.capology.com/soccer/player/lyanco/salary-profile/),"$14,137",CB,22,Starter,1,"$735,111",$0,$0,$0,$0,$0,$0,Bologna
+364,Angelo da Costa (http://www.capology.com/soccer/player/angelo-da-costa/salary-profile/),"$14,093",GK,35,Reserve,2,"$732,849","$732,849",$0,$0,$0,$0,$0,Bologna
+365,Bremer (http://www.capology.com/soccer/player/bremer/salary-profile/),"$14,093",CB,22,Reserve,5,"$732,849","$732,849","$732,849","$732,849","$732,849",$0,$0,Torino
+366,Christian Kouamé (http://www.capology.com/soccer/player/christian-kouame/salary-profile/),"$14,093",CF,21,Starter,5,"$732,849","$732,849","$732,849","$732,849","$732,849",$0,$0,Genoa
+367,Christian Nörgaard (http://www.capology.com/soccer/player/christian-norgaard/salary-profile/),"$14,093",DM,25,Reserve,4,"$732,849","$732,849","$732,849","$732,849",$0,$0,$0,Fiorentina
+368,Claud Adjapong (http://www.capology.com/soccer/player/claud-adjapong/salary-profile/),"$14,093",RB,20,Reserve,5,"$732,849","$732,849","$732,849","$732,849","$732,849",$0,$0,Sassuolo
+369,Daniel Bessa (http://www.capology.com/soccer/player/daniel-bessa/salary-profile/),"$14,093",CM,26,Starter,1,"$732,849",$0,$0,$0,$0,$0,$0,Genoa
+370,Filippo Costa (http://www.capology.com/soccer/player/filippo-costa/salary-profile/),"$14,093",LM,23,Reserve,3,"$732,849","$732,849","$732,849",$0,$0,$0,$0,SPAL
+371,Ismaël Bennacer (http://www.capology.com/soccer/player/ismael-bennacer/salary-profile/),"$14,093",CM,21,Starter,3,"$732,849","$732,849","$732,849",$0,$0,$0,$0,Empoli
+372,Jens Stryger Larsen (http://www.capology.com/soccer/player/jens-stryger-larsen/salary-profile/),"$14,093",RB,28,Starter,4,"$732,849","$732,849","$732,849","$732,849",$0,$0,$0,Udinese
+373,Luca Mazzitelli (http://www.capology.com/soccer/player/luca-mazzitelli/salary-profile/),"$14,093",CM,23,Reserve,5,"$732,849","$732,849","$732,849","$732,849","$732,849",$0,$0,Genoa
+374,Luca Rigoni (http://www.capology.com/soccer/player/luca-rigoni/salary-profile/),"$14,093",CM,34,Reserve,1,"$732,849",$0,$0,$0,$0,$0,$0,Parma
+375,Marco D'Alessandro (http://www.capology.com/soccer/player/marco-d-alessandro/salary-profile/),"$14,093",RW,28,Starter,1,"$732,849",$0,$0,$0,$0,$0,$0,Udinese
+376,Pol Lirola (http://www.capology.com/soccer/player/pol-lirola/salary-profile/),"$14,093",RB,21,Starter,3,"$732,849","$732,849","$732,849",$0,$0,$0,$0,Sassuolo
+377,Rogério (http://www.capology.com/soccer/player/rogerio/salary-profile/),"$14,093",LB,21,Starter,1,"$732,849",$0,$0,$0,$0,$0,$0,Sassuolo
+378,Salvador Ichazo (http://www.capology.com/soccer/player/salvador-ichazo/salary-profile/),"$14,093",GK,27,Reserve,1,"$732,849",$0,$0,$0,$0,$0,$0,Torino
+379,Samir (http://www.capology.com/soccer/player/samir/salary-profile/),"$14,093",CB,24,Reserve,3,"$732,849","$732,849","$732,849",$0,$0,$0,$0,Udinese
+380,Sergio Pellissier (http://www.capology.com/soccer/player/sergio-pellissier/salary-profile/),"$14,093",CF,40,Starter,1,"$732,849",$0,$0,$0,$0,$0,$0,Chievo Verona
+381,William Troost-Ekong (http://www.capology.com/soccer/player/william-troost-ekong/salary-profile/),"$14,093",CB,25,Starter,4,"$732,849","$732,849","$732,849","$732,849",$0,$0,$0,Udinese
+382,Marcel Büchel (http://www.capology.com/soccer/player/marcel-buchel/salary-profile/),"$12,332",CM,28,Reserve,1,"$641,243",$0,$0,$0,$0,$0,$0,Empoli
+383,Antonino Barillà (http://www.capology.com/soccer/player/antonino-barilla/salary-profile/),"$12,092",CM,31,Starter,2,"$628,803","$628,803",$0,$0,$0,$0,$0,Parma
+384,Arkadiusz Reca (http://www.capology.com/soccer/player/arkadiusz-reca/salary-profile/),"$12,092",LB,23,Reserve,4,"$628,803","$628,803","$628,803","$628,803",$0,$0,$0,Atalanta
+385,Berat Djimsiti (http://www.capology.com/soccer/player/berat-djimsiti/salary-profile/),"$12,092",CB,26,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Atalanta
+386,Bruno Jordão (http://www.capology.com/soccer/player/bruno-jordao/salary-profile/),"$12,092",CM,20,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Lazio
+387,Carlo Pinsoglio (http://www.capology.com/soccer/player/carlo-pinsoglio/salary-profile/),"$12,092",GK,29,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Juventus
+388,Domenico Maietta (http://www.capology.com/soccer/player/domenico-maietta/salary-profile/),"$12,092",CB,36,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Empoli
+389,Enrico Brignola (http://www.capology.com/soccer/player/enrico-brignola/salary-profile/),"$12,092",SS,19,Reserve,5,"$628,803","$628,803","$628,803","$628,803","$628,803",$0,$0,Sassuolo
+390,Esteban Rolón (http://www.capology.com/soccer/player/esteban-rolon/salary-profile/),"$12,092",DM,24,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Genoa
+391,Francesco Zampano (http://www.capology.com/soccer/player/francesco-zampano/salary-profile/),"$12,092",RB,25,Starter,1,"$628,803",$0,$0,$0,$0,$0,$0,Frosinone
+392,Giangiacomo Magnani (http://www.capology.com/soccer/player/giangiacomo-magnani/salary-profile/),"$12,092",CB,23,Starter,5,"$628,803","$628,803","$628,803","$628,803","$628,803",$0,$0,Sassuolo
+393,Giovanni Di Lorenzo (http://www.capology.com/soccer/player/giovanni-di-lorenzo/salary-profile/),"$12,092",RB,25,Starter,4,"$628,803","$628,803","$628,803","$628,803",$0,$0,$0,Empoli
+394,Guido Guerrieri (http://www.capology.com/soccer/player/guido-guerrieri/salary-profile/),"$12,092",GK,23,Reserve,3,"$628,803","$628,803","$628,803",$0,$0,$0,$0,Lazio
+395,Hans Hateboer (http://www.capology.com/soccer/player/hans-hateboer/salary-profile/),"$12,092",RB,25,Reserve,2,"$628,803","$628,803",$0,$0,$0,$0,$0,Atalanta
+396,Ivan Lakicevic (http://www.capology.com/soccer/player/ivan-lakicevic/salary-profile/),"$12,092",RB,25,Reserve,4,"$628,803","$628,803","$628,803","$628,803",$0,$0,$0,Genoa
+397,Kevin Bonifazi (http://www.capology.com/soccer/player/kevin-bonifazi/salary-profile/),"$12,092",CB,22,Starter,1,"$628,803",$0,$0,$0,$0,$0,$0,SPAL
+398,Koray Günter (http://www.capology.com/soccer/player/koray-gunter/salary-profile/),"$12,092",CB,24,Reserve,3,"$628,803","$628,803","$628,803",$0,$0,$0,$0,Genoa
+399,Leonardo Capezzi (http://www.capology.com/soccer/player/leonardo-capezzi/salary-profile/),"$12,092",DM,24,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Empoli
+400,Levan Mchedlidze (http://www.capology.com/soccer/player/levan-mchedlidze/salary-profile/),"$12,092",CF,29,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Empoli
+401,Luka Krajnc (http://www.capology.com/soccer/player/luka-krajnc/salary-profile/),"$12,092",CB,24,Starter,4,"$628,803","$628,803","$628,803","$628,803",$0,$0,$0,Frosinone
+402,Manuel Pasqual (http://www.capology.com/soccer/player/manuel-pasqual/salary-profile/),"$12,092",LB,37,Starter,1,"$628,803",$0,$0,$0,$0,$0,$0,Empoli
+403,Manuel Pucciarelli (http://www.capology.com/soccer/player/manuel-pucciarelli/salary-profile/),"$12,092",SS,27,Reserve,3,"$628,803","$628,803","$628,803",$0,$0,$0,$0,Chievo Verona
+404,Marco Capuano (http://www.capology.com/soccer/player/marco-capuano/salary-profile/),"$12,092",CB,27,Starter,3,"$628,803","$628,803","$628,803",$0,$0,$0,$0,Frosinone
+405,Matteo Scozzarella (http://www.capology.com/soccer/player/matteo-scozzarella/salary-profile/),"$12,092",CM,30,Starter,1,"$628,803",$0,$0,$0,$0,$0,$0,Parma
+406,Mattia Valoti (http://www.capology.com/soccer/player/mattia-valoti/salary-profile/),"$12,092",CM,25,Starter,1,"$628,803",$0,$0,$0,$0,$0,$0,SPAL
+407,Nicolas Frey (http://www.capology.com/soccer/player/nicolas-frey/salary-profile/),"$12,092",RB,35,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Chievo Verona
+408,Nicolò Brighenti (http://www.capology.com/soccer/player/nicolo-brighenti/salary-profile/),"$12,092",CB,29,Reserve,2,"$628,803","$628,803",$0,$0,$0,$0,$0,Frosinone
+409,Pedro Neto (http://www.capology.com/soccer/player/pedro-neto/salary-profile/),"$12,092",RW,19,Reserve,4,"$628,803","$628,803","$628,803","$628,803",$0,$0,$0,Lazio
+410,Pedro Pereira (http://www.capology.com/soccer/player/pedro-pereira/salary-profile/),"$12,092",RB,21,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Genoa
+411,Rafael de Andrade Bittencourt (http://www.capology.com/soccer/player/rafael-de-andrade-bittencourt/salary-profile/),"$12,092",GK,37,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,Cagliari
+412,Robin Gosens (http://www.capology.com/soccer/player/robin-gosens/salary-profile/),"$12,092",LB,24,Starter,2,"$628,803","$628,803",$0,$0,$0,$0,$0,Atalanta
+413,Sergio Floccari (http://www.capology.com/soccer/player/sergio-floccari/salary-profile/),"$12,092",CF,37,Reserve,1,"$628,803",$0,$0,$0,$0,$0,$0,SPAL
+414,Thiago Cionek (http://www.capology.com/soccer/player/thiago-cionek/salary-profile/),"$12,092",CB,32,Starter,2,"$628,803","$628,803",$0,$0,$0,$0,$0,SPAL
+415,Cristian Dell'Orco (http://www.capology.com/soccer/player/cristian-dell-orco/salary-profile/),"$12,071",LB,25,Reserve,1,"$627,672",$0,$0,$0,$0,$0,$0,Empoli
+416,Marko Pajac (http://www.capology.com/soccer/player/marko-pajac/salary-profile/),"$12,071",LB,25,Reserve,1,"$627,672",$0,$0,$0,$0,$0,$0,Empoli
+417,Stefan Simic (http://www.capology.com/soccer/player/stefan-simic/salary-profile/),"$12,071",CB,24,Reserve,1,"$627,672",$0,$0,$0,$0,$0,$0,Frosinone
+418,Marko Jankovic (http://www.capology.com/soccer/player/marko-jankovic/salary-profile/),"$11,201",RW,23,Reserve,4,"$582,434","$582,434","$582,434","$582,434",$0,$0,$0,SPAL
+419,Merih Demiral (http://www.capology.com/soccer/player/merih-demiral/salary-profile/),"$10,983",CB,21,Reserve,1,"$571,125",$0,$0,$0,$0,$0,$0,Sassuolo
+420,Kevin Diks (http://www.capology.com/soccer/player/kevin-diks/salary-profile/),"$10,548",RB,22,Reserve,2,"$548,506","$548,506",$0,$0,$0,$0,$0,Empoli
+421,Pa Konate (http://www.capology.com/soccer/player/pa-konate/salary-profile/),"$10,439",LB,24,Reserve,3,"$542,851","$542,851","$542,851",$0,$0,$0,$0,SPAL
+422,Abdou Diakhate (http://www.capology.com/soccer/player/abdou-diakhate/salary-profile/),"$10,113",CM,20,Reserve,5,"$525,887","$525,887","$525,887","$525,887","$525,887",$0,$0,Parma
+423,Kiril Despodov (http://www.capology.com/soccer/player/kiril-despodov/salary-profile/),"$10,113",RW,22,Reserve,5,"$525,887","$525,887","$525,887","$525,887","$525,887",$0,$0,Cagliari
+424,Alfred Gomis (http://www.capology.com/soccer/player/alfred-gomis/salary-profile/),"$10,070",GK,25,Reserve,3,"$523,625","$523,625","$523,625",$0,$0,$0,$0,SPAL
+425,Antonin Barak (http://www.capology.com/soccer/player/antonin-barak/salary-profile/),"$10,070",CM,24,Reserve,4,"$523,625","$523,625","$523,625","$523,625",$0,$0,$0,Udinese
+426,Antonio Rosati (http://www.capology.com/soccer/player/antonio-rosati/salary-profile/),"$10,070",GK,35,Reserve,1,"$523,625",$0,$0,$0,$0,$0,$0,Torino
+427,Frédéric Veseli (http://www.capology.com/soccer/player/frederic-veseli/salary-profile/),"$10,070",CB,26,Starter,3,"$523,625","$523,625","$523,625",$0,$0,$0,$0,Empoli
+428,Gianluca Mancini (http://www.capology.com/soccer/player/gianluca-mancini/salary-profile/),"$10,070",CB,22,Reserve,5,"$523,625","$523,625","$523,625","$523,625","$523,625",$0,$0,Atalanta
+429,Hidde ter Avest (http://www.capology.com/soccer/player/hidde-ter-avest/salary-profile/),"$10,070",RB,21,Reserve,4,"$523,625","$523,625","$523,625","$523,625",$0,$0,$0,Udinese
+430,Ivan Provedel (http://www.capology.com/soccer/player/ivan-provedel/salary-profile/),"$10,070",GK,25,Starter,3,"$523,625","$523,625","$523,625",$0,$0,$0,$0,Empoli
+431,Jacob Rasmussen (http://www.capology.com/soccer/player/jacob-rasmussen/salary-profile/),"$10,070",CB,21,Starter,4,"$523,625","$523,625","$523,625","$523,625",$0,$0,$0,Empoli
+432,Joachim Andersen (http://www.capology.com/soccer/player/joachim-andersen/salary-profile/),"$10,070",CB,22,Starter,4,"$523,625","$523,625","$523,625","$523,625",$0,$0,$0,Sampdoria
+433,Lorenzo Dickmann (http://www.capology.com/soccer/player/lorenzo-dickmann/salary-profile/),"$10,070",RB,22,Reserve,1,"$523,625",$0,$0,$0,$0,$0,$0,SPAL
+434,Luca Paganini (http://www.capology.com/soccer/player/luca-paganini/salary-profile/),"$10,070",RW,25,Reserve,2,"$523,625","$523,625",$0,$0,$0,$0,$0,Frosinone
+435,Mattia Bani (http://www.capology.com/soccer/player/mattia-bani/salary-profile/),"$10,070",CB,25,Starter,5,"$523,625","$523,625","$523,625","$523,625","$523,625",$0,$0,Chievo Verona
+436,Mirko Gori (http://www.capology.com/soccer/player/mirko-gori/salary-profile/),"$10,070",CM,26,Reserve,1,"$523,625",$0,$0,$0,$0,$0,$0,Frosinone
+437,Mohamed Fares (http://www.capology.com/soccer/player/mohamed-fares/salary-profile/),"$10,070",LM,23,Starter,1,"$523,625",$0,$0,$0,$0,$0,$0,SPAL
+438,Musa Barrow (http://www.capology.com/soccer/player/musa-barrow/salary-profile/),"$10,070",CF,20,Reserve,5,"$523,625","$523,625","$523,625","$523,625","$523,625",$0,$0,Atalanta
+439,Musa Juwara (http://www.capology.com/soccer/player/musa-juwara/salary-profile/),"$10,070",LW,17,Reserve,2,"$523,625","$523,625",$0,$0,$0,$0,$0,Chievo Verona
+440,Nicola Dalmonte (http://www.capology.com/soccer/player/nicola-dalmonte/salary-profile/),"$10,070",CF,21,Reserve,3,"$523,625","$523,625","$523,625",$0,$0,$0,$0,Genoa
+441,Nícolas (http://www.capology.com/soccer/player/nicolas/salary-profile/),"$10,070",GK,31,Reserve,1,"$523,625",$0,$0,$0,$0,$0,$0,Udinese
+442,Paolo Sammarco (http://www.capology.com/soccer/player/paolo-sammarco/salary-profile/),"$10,070",CM,36,Reserve,1,"$523,625",$0,$0,$0,$0,$0,$0,Frosinone
+443,Raffaele Maiello (http://www.capology.com/soccer/player/raffaele-maiello/salary-profile/),"$10,070",CM,27,Reserve,4,"$523,625","$523,625","$523,625","$523,625",$0,$0,$0,Frosinone
+444,Vid Belec (http://www.capology.com/soccer/player/vid-belec/salary-profile/),"$10,070",GK,28,Reserve,3,"$523,625","$523,625","$523,625",$0,$0,$0,$0,Sampdoria
+445,Massimo Gobbi (http://www.capology.com/soccer/player/massimo-gobbi/salary-profile/),"$9,656",LB,38,Reserve,1,"$502,137",$0,$0,$0,$0,$0,$0,Parma
+446,Leo Stulac (http://www.capology.com/soccer/player/leo-stulac/salary-profile/),"$9,265",DM,24,Reserve,5,"$481,780","$481,780","$481,780","$481,780","$481,780",$0,$0,Parma
+447,Riccardo Gagliolo (http://www.capology.com/soccer/player/riccardo-gagliolo/salary-profile/),"$9,265",CB,28,Starter,3,"$481,780","$481,780","$481,780",$0,$0,$0,$0,Parma
+448,Dimitri Oberlin (http://www.capology.com/soccer/player/dimitri-oberlin/salary-profile/),"$8,917",CF,21,Reserve,1,"$463,685",$0,$0,$0,$0,$0,$0,Empoli
+449,Marcello Gazzola (http://www.capology.com/soccer/player/marcello-gazzola/salary-profile/),"$8,852",RB,34,Reserve,1,"$460,293",$0,$0,$0,$0,$0,$0,Parma
+450,Vittorio Parigini (http://www.capology.com/soccer/player/vittorio-parigini/salary-profile/),"$8,852",RW,23,Reserve,2,"$460,293","$460,293",$0,$0,$0,$0,$0,Torino
+451,Alessandro Plizzari (http://www.capology.com/soccer/player/alessandro-plizzari/salary-profile/),"$8,047",GK,19,Reserve,2,"$418,448","$418,448",$0,$0,$0,$0,$0,AC Milan
+452,Andrea Beghetto (http://www.capology.com/soccer/player/andrea-beghetto/salary-profile/),"$8,047",LM,24,Starter,4,"$418,448","$418,448","$418,448","$418,448",$0,$0,$0,Frosinone
+453,Andrea Seculin (http://www.capology.com/soccer/player/andrea-seculin/salary-profile/),"$8,047",GK,28,Reserve,3,"$418,448","$418,448","$418,448",$0,$0,$0,$0,Chievo Verona
+454,András Schäfer (http://www.capology.com/soccer/player/andras-schafer/salary-profile/),"$8,047",LM,19,Reserve,5,"$418,448","$418,448","$418,448","$418,448","$418,448",$0,$0,Genoa
+455,Arturo Calabresi (http://www.capology.com/soccer/player/arturo-calabresi/salary-profile/),"$8,047",CB,23,Reserve,4,"$418,448","$418,448","$418,448","$418,448",$0,$0,$0,Bologna
+456,Bartlomiej Dragowski (http://www.capology.com/soccer/player/bartlomiej-dragowski/salary-profile/),"$8,047",GK,21,Reserve,1,"$418,448",$0,$0,$0,$0,$0,$0,Empoli
+457,Cristian Romero (http://www.capology.com/soccer/player/cristian-romero/salary-profile/),"$8,047",CB,20,Starter,5,"$418,448","$418,448","$418,448","$418,448","$418,448",$0,$0,Genoa
+458,Dusan Vlahovic (http://www.capology.com/soccer/player/dusan-vlahovic/salary-profile/),"$8,047",CF,19,Reserve,5,"$418,448","$418,448","$418,448","$418,448","$418,448",$0,$0,Fiorentina
+459,Federico Dimarco (http://www.capology.com/soccer/player/federico-dimarco/salary-profile/),"$8,047",LB,21,Reserve,1,"$418,448",$0,$0,$0,$0,$0,$0,Parma
+460,Jherson Vergara (http://www.capology.com/soccer/player/jherson-vergara/salary-profile/),"$8,047",CB,24,Reserve,2,"$418,448","$418,448",$0,$0,$0,$0,$0,Cagliari
+461,Nicholas Opoku (http://www.capology.com/soccer/player/nicholas-opoku/salary-profile/),"$8,047",CB,21,Reserve,4,"$418,448","$418,448","$418,448","$418,448",$0,$0,$0,Udinese
+462,Rok Vodisek (http://www.capology.com/soccer/player/rok-vodisek/salary-profile/),"$8,047",GK,20,Reserve,4,"$418,448","$418,448","$418,448","$418,448",$0,$0,$0,Genoa
+463,Svante Ingelsson (http://www.capology.com/soccer/player/svante-ingelsson/salary-profile/),"$8,047",RW,20,Reserve,3,"$418,448","$418,448","$418,448",$0,$0,$0,$0,Udinese
+464,Tommaso Berni (http://www.capology.com/soccer/player/tommaso-berni/salary-profile/),"$8,047",GK,36,Reserve,1,"$418,448",$0,$0,$0,$0,$0,$0,Inter Milan
+465,Petar Micin (http://www.capology.com/soccer/player/petar-micin/salary-profile/),"$7,895",RW,20,Reserve,1,"$410,531",$0,$0,$0,$0,$0,$0,Udinese
+466,Pierluigi Frattali (http://www.capology.com/soccer/player/pierluigi-frattali/salary-profile/),"$7,656",GK,33,Reserve,1,"$398,091",$0,$0,$0,$0,$0,$0,Parma
+467,Gianluca Scamacca (http://www.capology.com/soccer/player/gianluca-scamacca/salary-profile/),"$7,503",CF,20,Reserve,5,"$390,174","$390,174","$390,174","$390,174","$390,174",$0,$0,Sassuolo
+468,Mattia Sprocati (http://www.capology.com/soccer/player/mattia-sprocati/salary-profile/),"$7,242",RW,25,Reserve,1,"$376,603",$0,$0,$0,$0,$0,$0,Parma
+469,Simone Iacoponi (http://www.capology.com/soccer/player/simone-iacoponi/salary-profile/),"$7,242",RB,31,Starter,1,"$376,603",$0,$0,$0,$0,$0,$0,Parma
+470,Pietro Terracciano (http://www.capology.com/soccer/player/pietro-terracciano/salary-profile/),"$6,851",GK,29,Reserve,2,"$356,246","$356,246",$0,$0,$0,$0,$0,Fiorentina
+471,José Machín (http://www.capology.com/soccer/player/jose-machin/salary-profile/),"$6,525",CM,22,Reserve,1,"$339,282",$0,$0,$0,$0,$0,$0,Parma
+472,Marco Varnier (http://www.capology.com/soccer/player/marco-varnier/salary-profile/),"$6,438",CB,20,Reserve,5,"$334,758","$334,758","$334,758","$334,758","$334,758",$0,$0,Atalanta
+473,Matteo Pessina (http://www.capology.com/soccer/player/matteo-pessina/salary-profile/),"$6,438",CM,21,Reserve,4,"$334,758","$334,758","$334,758","$334,758",$0,$0,$0,Atalanta
+474,Luca Valzania (http://www.capology.com/soccer/player/luca-valzania/salary-profile/),"$6,416",CM,23,Starter,1,"$333,627",$0,$0,$0,$0,$0,$0,Frosinone
+475,Assane Dioussé (http://www.capology.com/soccer/player/assane-diousse/salary-profile/),"$6,307",DM,21,Reserve,1,"$327,973",$0,$0,$0,$0,$0,$0,Chievo Verona
+476,Ben Wilmot (http://www.capology.com/soccer/player/ben-wilmot/salary-profile/),"$6,307",CB,19,Reserve,1,"$327,973",$0,$0,$0,$0,$0,$0,Udinese
+477,Alessandro Iacobucci (http://www.capology.com/soccer/player/alessandro-iacobucci/salary-profile/),"$6,046",GK,27,Reserve,2,"$314,401","$314,401",$0,$0,$0,$0,$0,Frosinone
+478,Francisco Sierralta (http://www.capology.com/soccer/player/francisco-sierralta/salary-profile/),"$6,046",CB,21,Reserve,1,"$314,401",$0,$0,$0,$0,$0,$0,Parma
+479,Matteo Brighi (http://www.capology.com/soccer/player/matteo-brighi/salary-profile/),"$6,046",CM,38,Reserve,1,"$314,401",$0,$0,$0,$0,$0,$0,Empoli
+480,Paolo Ghiglione (http://www.capology.com/soccer/player/paolo-ghiglione/salary-profile/),"$6,046",RB,22,Reserve,1,"$314,401",$0,$0,$0,$0,$0,$0,Frosinone
+481,Pawel Jaroszynski (http://www.capology.com/soccer/player/pawel-jaroszynski/salary-profile/),"$6,046",LB,24,Starter,3,"$314,401","$314,401","$314,401",$0,$0,$0,$0,Chievo Verona
+482,Raffaele Di Gennaro (http://www.capology.com/soccer/player/raffaele-di-gennaro/salary-profile/),"$6,046",GK,25,Reserve,1,"$314,401",$0,$0,$0,$0,$0,$0,Inter Milan
+483,Simone Aresti (http://www.capology.com/soccer/player/simone-aresti/salary-profile/),"$6,046",GK,33,Reserve,2,"$314,401","$314,401",$0,$0,$0,$0,$0,Cagliari
+484,Jandrei (http://www.capology.com/soccer/player/jandrei/salary-profile/),"$5,111",GK,26,Reserve,4,"$265,771","$265,771","$265,771","$265,771",$0,$0,$0,Genoa
+485,Salih Ucan (http://www.capology.com/soccer/player/salih-ucan/salary-profile/),"$5,024",AM,25,Reserve,1,"$261,247",$0,$0,$0,$0,$0,$0,Empoli
+486,Andrea Fulignati (http://www.capology.com/soccer/player/andrea-fulignati/salary-profile/),"$4,024",GK,24,Reserve,1,"$209,224",$0,$0,$0,$0,$0,$0,SPAL
+487,Antonio Santurro (http://www.capology.com/soccer/player/antonio-santurro/salary-profile/),"$4,024",GK,27,Reserve,2,"$209,224","$209,224",$0,$0,$0,$0,$0,Bologna
+488,Bram Nuytinck (http://www.capology.com/soccer/player/bram-nuytinck/salary-profile/),"$4,024",CB,28,Starter,3,"$209,224","$209,224","$209,224",$0,$0,$0,$0,Udinese
+489,Fabio Depaoli (http://www.capology.com/soccer/player/fabio-depaoli/salary-profile/),"$4,024",RB,21,Reserve,3,"$209,224","$209,224","$209,224",$0,$0,$0,$0,Chievo Verona
+490,Francesco Rossi (http://www.capology.com/soccer/player/francesco-rossi/salary-profile/),"$4,024",GK,27,Reserve,2,"$209,224","$209,224",$0,$0,$0,$0,$0,Atalanta
+491,Giacomo Poluzzi (http://www.capology.com/soccer/player/giacomo-poluzzi/salary-profile/),"$4,024",GK,31,Reserve,1,"$209,224",$0,$0,$0,$0,$0,$0,SPAL
+492,Juan Manuel Valencia (http://www.capology.com/soccer/player/juan-manuel-valencia/salary-profile/),"$4,024",AM,20,Reserve,3,"$209,224","$209,224","$209,224",$0,$0,$0,$0,Bologna
+493,Lorenco Simic (http://www.capology.com/soccer/player/lorenco-simic/salary-profile/),"$4,024",CB,22,Reserve,1,"$209,224",$0,$0,$0,$0,$0,$0,SPAL
+494,Martin Graiciar (http://www.capology.com/soccer/player/martin-graiciar/salary-profile/),"$4,024",CF,20,Reserve,4,"$209,224","$209,224","$209,224","$209,224",$0,$0,$0,Fiorentina
+495,Sofian Kiyine (http://www.capology.com/soccer/player/sofian-kiyine/salary-profile/),"$4,024",CM,21,Starter,2,"$209,224","$209,224",$0,$0,$0,$0,$0,Chievo Verona
+496,Alessandro Deiola (http://www.capology.com/soccer/player/alessandro-deiola/salary-profile/),"$3,589",CM,23,Starter,4,"$186,605","$186,605","$186,605","$186,605",$0,$0,$0,Cagliari
+497,Christian Oliva (http://www.capology.com/soccer/player/christian-oliva/salary-profile/),"$3,480",DM,22,Reserve,1,"$180,950",$0,$0,$0,$0,$0,$0,Cagliari
+498,Erick Ferigra (http://www.capology.com/soccer/player/erick-ferigra/salary-profile/),"$3,219",CB,20,Reserve,3,"$167,379","$167,379","$167,379",$0,$0,$0,$0,Torino
+499,Jens Odgaard (http://www.capology.com/soccer/player/jens-odgaard/salary-profile/),"$3,219",CF,20,Reserve,5,"$167,379","$167,379","$167,379","$167,379","$167,379",$0,$0,Sassuolo
+500,Leonardo Sernicola (http://www.capology.com/soccer/player/leonardo-sernicola/salary-profile/),"$3,219",LB,21,Reserve,5,"$167,379","$167,379","$167,379","$167,379","$167,379",$0,$0,Sassuolo
+501,Mauro Burruchaga (http://www.capology.com/soccer/player/mauro-burruchaga/salary-profile/),"$3,219",CM,20,Reserve,2,"$167,379","$167,379",$0,$0,$0,$0,$0,Chievo Verona
+502,Nicolás Schiappacasse (http://www.capology.com/soccer/player/nicolas-schiappacasse/salary-profile/),"$2,936",LW,20,Reserve,2,"$152,677","$152,677",$0,$0,$0,$0,$0,Parma
+503,Giacomo Satalino (http://www.capology.com/soccer/player/giacomo-satalino/salary-profile/),"$2,827",GK,19,Reserve,3,"$147,022","$147,022","$147,022",$0,$0,$0,$0,Sassuolo
+504,Hamed Junior Traorè (http://www.capology.com/soccer/player/hamed-junior-traore/salary-profile/),"$2,414",AM,19,Starter,4,"$125,534","$125,534","$125,534","$125,534",$0,$0,$0,Empoli
+505,Vitalie Damascan (http://www.capology.com/soccer/player/vitalie-damascan/salary-profile/),"$2,414",CF,20,Reserve,3,"$125,534","$125,534","$125,534",$0,$0,$0,$0,Torino
+506,Maxime Leverbe (http://www.capology.com/soccer/player/maxime-leverbe/salary-profile/),"$2,392",CB,22,Reserve,1,"$124,403",$0,$0,$0,$0,$0,$0,Cagliari
+507,Dimitrios Nikolaou (http://www.capology.com/soccer/player/dimitrios-nikolaou/salary-profile/),"$2,284",CB,20,Reserve,1,"$118,749",$0,$0,$0,$0,$0,$0,Empoli
+508,Adrian Semper (http://www.capology.com/soccer/player/adrian-semper/salary-profile/),"$2,023",GK,21,Reserve,1,"$105,177",$0,$0,$0,$0,$0,$0,Chievo Verona
+509,Emanuel Vignato (http://www.capology.com/soccer/player/emanuel-vignato/salary-profile/),"$2,023",RW,18,Reserve,2,"$105,177","$105,177",$0,$0,$0,$0,$0,Chievo Verona
+510,Francesco Cassata (http://www.capology.com/soccer/player/francesco-cassata/salary-profile/),"$2,023",CM,21,Reserve,1,"$105,177",$0,$0,$0,$0,$0,$0,Frosinone
+511,Giacomo Raspadori (http://www.capology.com/soccer/player/giacomo-raspadori/salary-profile/),"$2,023",CF,19,Reserve,4,"$105,177","$105,177","$105,177","$105,177",$0,$0,$0,Sassuolo
+512,Lorenzo Polvani (http://www.capology.com/soccer/player/lorenzo-polvani/salary-profile/),"$2,023",CB,24,Reserve,2,"$105,177","$105,177",$0,$0,$0,$0,$0,Empoli
+513,Mehdi Léris (http://www.capology.com/soccer/player/mehdi-leris/salary-profile/),"$2,023",SS,20,Reserve,2,"$105,177","$105,177",$0,$0,$0,$0,$0,Chievo Verona
+514,Sergej Grubac (http://www.capology.com/soccer/player/sergej-grubac/salary-profile/),"$2,023",CF,18,Reserve,5,"$105,177","$105,177","$105,177","$105,177","$105,177",$0,$0,Chievo Verona
+515,Strahinja Tanasijevic (http://www.capology.com/soccer/player/strahinja-tanasijevic/salary-profile/),"$2,023",CB,21,Reserve,3,"$105,177","$105,177","$105,177",$0,$0,$0,$0,Chievo Verona
+516,Samuele Perisan (http://www.capology.com/soccer/player/samuele-perisan/salary-profile/),"$1,087",GK,21,Reserve,1,"$56,547",$0,$0,$0,$0,$0,$0,Udinese
+517,Caio Vinicius Pirana (http://www.capology.com/soccer/player/caio-vinicius-pirana/salary-profile/),$979,GK,19,Reserve,5,"$50,892","$50,892","$50,892","$50,892","$50,892",$0,$0,Bologna
+518,Andrea Pinamonti (http://www.capology.com/soccer/player/andrea-pinamonti/salary-profile/),$805,CF,19,Starter,1,"$41,845",$0,$0,$0,$0,$0,$0,Frosinone
+519,Riccardo Daga (http://www.capology.com/soccer/player/riccardo-daga/salary-profile/),$805,GK,19,Reserve,2,"$41,845","$41,845",$0,$0,$0,$0,$0,Cagliari
+520,Filippo Perucchini (http://www.capology.com/soccer/player/filippo-perucchini/salary-profile/),$652,GK,27,Reserve,2,"$33,928","$33,928",$0,$0,$0,$0,$0,Empoli
+521,Fabrizio Bagheria (http://www.capology.com/soccer/player/fabrizio-bagheria/salary-profile/),$544,GK,18,Reserve,1,"$28,274",$0,$0,$0,$0,$0,$0,Parma
+522,Simone Ghidotti (http://www.capology.com/soccer/player/simone-ghidotti/salary-profile/),$283,GK,19,Reserve,1,"$14,702",$0,$0,$0,$0,$0,$0,Fiorentina
